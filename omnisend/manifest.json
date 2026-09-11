@@ -5,7 +5,7 @@
     "files": [
       "W1.html"
     ],
-    "subject": "[preview] ",
+    "subject": "Džiaugiamės, kad prisijungei! Tavo dovana jau čia 💚",
     "configuration": {
       "subject": "Džiaugiamės, kad prisijungei! Tavo dovana jau čia 💚",
       "preheader": "10 % su SKILSAS10 ir trumpa mūsų šeimos istorija.",
@@ -21,7 +21,7 @@
     "files": [
       "W2.html"
     ],
-    "subject": "[preview] ",
+    "subject": "Kuris atradimas pradžiugins Tavo vaiką?",
     "configuration": {
       "subject": "Kuris atradimas pradžiugins Tavo vaiką?",
       "preheader": "5 priemonės skirtingiems pomėgiams: klausyti, kalbėti, dėlioti ir kurti.",
@@ -37,7 +37,7 @@
     "files": [
       "W3.html"
     ],
-    "subject": "[preview] ",
+    "subject": "Viena kortelė gali pradėti visą pokalbį",
     "configuration": {
       "subject": "Viena kortelė gali pradėti visą pokalbį",
       "preheader": "Susipažink su SK9: 168 dvipusės kortelės ir 336 lietuviški žodžiai.",
@@ -53,7 +53,7 @@
     "files": [
       "W4.html"
     ],
-    "subject": "[preview] ",
+    "subject": "Mažiems atradimams užtenka vieno puslapio",
     "configuration": {
       "subject": "Mažiems atradimams užtenka vieno puslapio",
       "preheader": "Veiklos knyga, daugkartiniai lipdukai ir žaidimai savu tempu.",
@@ -69,7 +69,7 @@
     "files": [
       "W5.html"
     ],
-    "subject": "[preview] ",
+    "subject": "Padėkime išsirinkti tai, kas sudomins Tavo vaiką",
     "configuration": {
       "subject": "Padėkime išsirinkti tai, kas sudomins Tavo vaiką",
       "preheader": "Magnetinės lentos, raidės, skaičiai. Nuo ko pradėti?",
@@ -163,7 +163,7 @@
     "subject": "Mes Tavęs pasiilgome!",
     "configuration": {
       "subject": "Mes Tavęs pasiilgome!",
-      "preheader": "Ingridos laiškas ir kvietimas vėl užsukti į SKILSAS.",
+      "preheader": "Užsuk pasižvalgyti. Gal atrasi tai, kas sudomins šįkart.",
       "senderName": "Ingrida iš SKILSAS",
       "senderEmail": "labas@skilsas.lt",
       "language": "lt_LT"
@@ -225,7 +225,7 @@
     "subject": "Dar ieškai tinkamos priemonės?",
     "configuration": {
       "subject": "Dar ieškai tinkamos priemonės?",
-      "preheader": "Pasirinkimai pagal pomėgius ir Ingridos pagalba renkantis.",
+      "preheader": "Dvejoji, kas tiktų? Atrašyk, padėsiu išsirinkti.",
       "senderName": "Ingrida iš SKILSAS",
       "senderEmail": "labas@skilsas.lt",
       "language": "lt_LT"
@@ -241,7 +241,7 @@
     "subject": "Kokie Tavo įspūdžiai?",
     "configuration": {
       "subject": "Kokie Tavo įspūdžiai?",
-      "preheader": "Ingrida iš SKILSAS kviečia pasidalinti atsiliepimu apie įsigytą priemonę.",
+      "preheader": "Pasidalink, kaip sekėsi išbandyti įsigytą priemonę.",
       "senderName": "Ingrida iš SKILSAS",
       "senderEmail": "labas@skilsas.lt",
       "language": "lt_LT"
