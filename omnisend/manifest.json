@@ -1,0 +1,250 @@
+[
+  {
+    "email": "W1",
+    "series": "welcome",
+    "files": [
+      "W1.html"
+    ],
+    "subject": "[preview] ",
+    "configuration": {
+      "subject": "Džiaugiamės, kad prisijungei! Tavo dovana jau čia 💚",
+      "preheader": "10 % su SKILSAS10 ir trumpa mūsų šeimos istorija.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT",
+      "isSkipAllowed": false
+    }
+  },
+  {
+    "email": "W2",
+    "series": "welcome",
+    "files": [
+      "W2.html"
+    ],
+    "subject": "[preview] ",
+    "configuration": {
+      "subject": "Kuris atradimas pradžiugins Tavo vaiką?",
+      "preheader": "5 priemonės skirtingiems pomėgiams: klausyti, kalbėti, dėlioti ir kurti.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT",
+      "isSkipAllowed": false
+    }
+  },
+  {
+    "email": "W3",
+    "series": "welcome",
+    "files": [
+      "W3.html"
+    ],
+    "subject": "[preview] ",
+    "configuration": {
+      "subject": "Viena kortelė gali pradėti visą pokalbį",
+      "preheader": "Susipažink su SK9: 168 dvipusės kortelės ir 336 lietuviški žodžiai.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT",
+      "isSkipAllowed": false
+    }
+  },
+  {
+    "email": "W4",
+    "series": "welcome",
+    "files": [
+      "W4.html"
+    ],
+    "subject": "[preview] ",
+    "configuration": {
+      "subject": "Mažiems atradimams užtenka vieno puslapio",
+      "preheader": "Veiklos knyga, daugkartiniai lipdukai ir žaidimai savu tempu.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT",
+      "isSkipAllowed": false
+    }
+  },
+  {
+    "email": "W5",
+    "series": "welcome",
+    "files": [
+      "W5.html"
+    ],
+    "subject": "[preview] ",
+    "configuration": {
+      "subject": "Padėkime išsirinkti tai, kas sudomins Tavo vaiką",
+      "preheader": "Magnetinės lentos, raidės, skaičiai. Nuo ko pradėti?",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT",
+      "isSkipAllowed": false
+    }
+  },
+  {
+    "email": "AC1",
+    "series": "cart",
+    "files": [
+      "AC1-top.html",
+      "AC1-bottom.html"
+    ],
+    "subject": "Tavo pasirinkimai laukia krepšelyje 💚",
+    "configuration": {
+      "subject": "Tavo pasirinkimai laukia krepšelyje 💚",
+      "preheader": "Sugrįžk peržiūrėti pasirinktų priemonių.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt"
+    }
+  },
+  {
+    "email": "AC2",
+    "series": "cart",
+    "files": [
+      "AC2-top.html",
+      "AC2-bottom.html"
+    ],
+    "subject": "Gal padėti apsispręsti?",
+    "configuration": {
+      "subject": "Gal padėti apsispręsti?",
+      "preheader": "Apie pristatymą, grąžinimą ir pagalbą renkantis.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt"
+    }
+  },
+  {
+    "email": "AC3",
+    "series": "cart",
+    "files": [
+      "AC3-top.html",
+      "AC3-bottom.html"
+    ],
+    "subject": "10 % nuolaida Tavo išsirinktoms prekėms 🎁",
+    "configuration": {
+      "subject": "10 % nuolaida Tavo išsirinktoms prekėms 🎁",
+      "preheader": "Tavo nuolaidos kodas KREPSELIS10.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt"
+    }
+  },
+  {
+    "email": "CH1",
+    "series": "checkout",
+    "files": [
+      "CH1-top.html",
+      "CH1-bottom.html"
+    ],
+    "subject": "Užbaik pradėtą SKILSAS užsakymą",
+    "configuration": {
+      "subject": "Užbaik pradėtą SKILSAS užsakymą",
+      "preheader": "Tęsk nuo ten, kur sustojai. Tavo pasirinkimai žemiau.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt"
+    }
+  },
+  {
+    "email": "CH2",
+    "series": "checkout",
+    "files": [
+      "CH2-top.html",
+      "CH2-bottom.html"
+    ],
+    "subject": "Užbaik užsakymą su 10 % nuolaida",
+    "configuration": {
+      "subject": "Užbaik užsakymą su 10 % nuolaida",
+      "preheader": "Tavo pradėtam užsakymui kodas KREPSELIS10. Įvesk prieš apmokant.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt"
+    }
+  },
+  {
+    "email": "WB1",
+    "series": "winback",
+    "files": [
+      "WB1.html"
+    ],
+    "subject": "Mes Tavęs pasiilgome!",
+    "configuration": {
+      "subject": "Mes Tavęs pasiilgome!",
+      "preheader": "Ingridos laiškas ir kvietimas vėl užsukti į SKILSAS.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT"
+    }
+  },
+  {
+    "email": "WB2",
+    "series": "winback",
+    "files": [
+      "WB2.html"
+    ],
+    "subject": "Sugrįžk su 10 % dovana",
+    "configuration": {
+      "subject": "Sugrįžk su 10 % dovana",
+      "preheader": "Pasiilgome Tavęs. DOVANA10 kitam Tavo apsipirkimui.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT"
+    }
+  },
+  {
+    "email": "WB3",
+    "series": "winback",
+    "files": [
+      "WB3.html"
+    ],
+    "subject": "Nežinai, ką išrinkti? Padėsiu.",
+    "configuration": {
+      "subject": "Nežinai, ką išrinkti? Padėsiu.",
+      "preheader": "Šešios idėjos ir priminimas apie Tavo DOVANA10.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT"
+    }
+  },
+  {
+    "email": "AP1",
+    "series": "abandoned-product",
+    "files": [
+      "AP1-top.html",
+      "AP1-bottom.html"
+    ],
+    "subject": "Patiko tai, ką radai SKILSAS?",
+    "configuration": {
+      "subject": "Patiko tai, ką radai SKILSAS?",
+      "preheader": "Dar kartą apžiūrėk dominusią prekę arba atrask kitų idėjų.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT"
+    }
+  },
+  {
+    "email": "AP2",
+    "series": "abandoned-product",
+    "files": [
+      "AP2-top.html",
+      "AP2-bottom.html"
+    ],
+    "subject": "Dar ieškai tinkamos priemonės?",
+    "configuration": {
+      "subject": "Dar ieškai tinkamos priemonės?",
+      "preheader": "Pasirinkimai pagal pomėgius ir Ingridos pagalba renkantis.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT"
+    }
+  },
+  {
+    "email": "PR1",
+    "series": "product-review",
+    "files": [
+      "PR1-top.html",
+      "PR1-bottom.html"
+    ],
+    "subject": "Kokie Tavo įspūdžiai?",
+    "configuration": {
+      "subject": "Kokie Tavo įspūdžiai?",
+      "preheader": "Ingrida iš SKILSAS kviečia pasidalinti atsiliepimu apie įsigytą priemonę.",
+      "senderName": "Ingrida iš SKILSAS",
+      "senderEmail": "labas@skilsas.lt",
+      "language": "lt_LT"
+    }
+  }
+]
