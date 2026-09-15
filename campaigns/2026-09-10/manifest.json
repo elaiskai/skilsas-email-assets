@@ -1,0 +1,18 @@
+{
+  "sender_name": "Ingrida | SKILSAS",
+  "sender_email": "labas@skilsas.lt",
+  "timezone": "Europe/Vilnius",
+  "dates_are_plan_only": true,
+  "campaigns": [
+    {
+      "id": "C01",
+      "date": "2026-09-15",
+      "subject": "Ką veiksime po darželio?",
+      "preheader": "Trys idėjos vakarui: pasiklausyti, padėlioti ir piešti.",
+      "html": "C01/newsletter.html",
+      "preview": "C01/preview.html",
+      "text": "C01/newsletter.txt",
+      "status": "prepared_not_scheduled"
+    }
+  ]
+}
