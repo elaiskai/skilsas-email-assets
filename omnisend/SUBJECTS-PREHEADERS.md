@@ -18,7 +18,7 @@ Preheader: Veiklos knyga, daugkartiniai lipdukai ir žaidimai savu tempu.
 
 ## W5
 Subject: Padėkime išsirinkti tai, kas sudomins Tavo vaiką
-Preheader: Magnetinės lentos, raidės, skaičiai. Nuo ko pradėti?
+Preheader: Magnetinės lentos, kortelės ir veiklos knyga. Nuo ko pradėti?
 
 ## AC1
 Subject: Tavo pasirinkimai laukia krepšelyje 💚

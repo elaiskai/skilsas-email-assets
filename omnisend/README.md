@@ -1,30 +1,14 @@
-# SKILSAS · naujausi 16 laiškų
+# SKILSAS: visi 16 automatizacijų laiškų
 
-Šiame aplanke pateiktos naujausios šiame projekte redaguotos versijos. Senesni failai repozitorijos šaknyje nėra šio rinkinio dalis.
+Ši versija pakeičia ankstesnius automatizacijų HTML. Tai vietiniai failai, į Omnisend dar neįkelti.
 
-| Serija | Laiškai | Failai |
-|---|---|---|
-| Welcome | W1–W5 | welcome/W1.html ir t. t. |
-| Abandoned cart | AC1–AC3 | cart/AC1-top.html + AC1-bottom.html ir t. t. |
-| Abandoned checkout | CH1–CH2 | checkout/CH1-top.html + CH1-bottom.html |
-| Winback | WB1–WB3 | winback/WB1.html ir t. t. |
-| Abandoned product | AP1–AP2 | abandoned-product/AP1-top.html + AP1-bottom.html |
-| Product review | PR1 | product-review/PR1-top.html + PR1-bottom.html |
+Atidaryk index.html. Prie kiekvieno laiško yra peržiūra ir „Kopijuoti HTML“. TXT failuose tas pats pilnas kodas, jei naršyklė HTML failą rodo kaip laišką.
 
-## Įkėlimas į Omnisend
+Welcome W1–W5 ir Winback WB1–WB3: visas HTML šablonas.
+Cart AC1–AC3, Checkout CH1–CH2, Abandoned Product AP1–AP2 ir Review PR1: top.html į HTML bloką prieš Omnisend dinaminį prekių bloką, bottom.html į HTML bloką po juo. Preview failai nėra skirti importui.
 
-Welcome ir winback: naudoti pagrindinį .html failą kaip pilną HTML šabloną. Temos, preheader ir siuntėjo nustatymai yra manifest.json.
+HTML bloko išorinius tarpus Omnisend nustatyk į 0. Šablono plotis 600 px. Nenaudok seno papildomo styles.css. Naujos versijos bazinis persirikiavimas įrašytas tiesiai elementuose; jei klientas nepalaiko skaičiuojamo pločio, atsarginis išdėstymas yra vienas stulpelis.
 
-Kitoms serijoms: top.html HTML blokas → Omnisend dinaminis prekių blokas → bottom.html HTML blokas. Prie šablono pridėti atitinkamo laiško styles.css taisykles mobiliajam vaizdui. Cart / checkout bloke rodyti paliktas prekes; abandoned product bloke peržiūrėtas; review bloke nupirktas prekes ir atsiliepimų nuorodas.
+Išsaugok Omnisend atsisakymo ir paskyros laukus. Patikrink srauto grįžimo nuorodą su tikru bandomuoju įvykiu. Dinaminio bloko mobilų išdėstymą nustato Omnisend, jis nėra šio HTML dalis.
 
-Failai su -preview.html skirti peržiūrai. Juose esanti dinaminio bloko žyma nėra siunčiamo laiško dalis. Jos nekopijuoti į Omnisend.
-
-Paveikslėlių adresai visuose įkėlimo HTML yra vieši HTTPS adresai. Nauji ir senesni paveikslėliai surinkti assets aplanke. Nepalikta vietinių failų nuorodų ar base64 paveikslėlių.
-
-## Prieš įjungiant
-
-Išsaugoti Omnisend paskyros, atsisakymo ir nuostatų personalizavimo laukus. Cart / checkout CTA naudoja jau projekte buvusį [[event.abandonedCheckoutURL]] lauką: redaktoriuje parinkti konkretaus srauto grįžimo nuorodą ir patikrinti su bandomuoju įvykiu. Įprastoje naršyklės peržiūroje šie laukai neveikia.
-
-CH1 be nuolaidos. CH2 ir AC3: 10 % su KREPSELIS10. Welcome: SKILSAS10. Winback WB2 ir WB3: DOVANA10. Galiojimas ir realus pritaikymas parduotuvėje šiame įkėlime netikrinti.
-
-Tai HTML failų publikavimas, ne Omnisend automatizacijų paleidimas. Dinaminiai blokai, laikai, auditorijos, išėjimai po pirkimo ir cart / checkout prioritetai nustatomi Omnisend. Prieš siunčiant patikrinti testinį laišką telefone ir kompiuteryje.
+Patikrintos 600, 320, 390 ir 430 px versijos su head stiliais ir be jų, iš viso 128 švieži atvaizdavimai. Vizualiai peržiūrėti visi laiškai, patikros rezultatai su HTML SHA256 yra QA.json. Tai Chromium peržiūros, ne patvirtintas Gmail, Outlook ar Omnisend pristatymas. Prieš siuntimą reikalingas naujas Omnisend testas telefone ir kompiuteryje, įskaitant tikrą dinaminį bloką. Jokie srautai neįjungti.

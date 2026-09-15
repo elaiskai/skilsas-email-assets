@@ -1,0 +1,5594 @@
+[
+  {
+    "id": "W1",
+    "hashes": {
+      "W1.html": "af615f63dc39f98bf1eb6bf8ae525ebdda10601d6db236c343da4eb046571e6c"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "W1-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Didelis džiaugsmas.",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "Iš mūsų šeimosTavajai.",
+            "width": 238,
+            "height": 57
+          },
+          {
+            "text": "Pradėjome nuo idėjossavo vaikui.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Leisti tyrinėti.Leisti atrasti.",
+            "width": 238,
+            "height": 57
+          },
+          {
+            "text": "Priemonė pradeda žaidimą.Jūs jį pratęsiate.",
+            "width": 552,
+            "height": 57
+          }
+        ],
+        "height": 3907
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "W1-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Didelis džiaugsmas.",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "Iš mūsų šeimosTavajai.",
+            "width": 238,
+            "height": 57
+          },
+          {
+            "text": "Pradėjome nuo idėjossavo vaikui.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Leisti tyrinėti.Leisti atrasti.",
+            "width": 238,
+            "height": 57
+          },
+          {
+            "text": "Priemonė pradeda žaidimą.Jūs jį pratęsiate.",
+            "width": 552,
+            "height": 57
+          }
+        ],
+        "height": 3907
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "W1-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Didelis džiaugsmas.",
+            "width": 284,
+            "height": 71
+          },
+          {
+            "text": "Iš mūsų šeimosTavajai.",
+            "width": 224,
+            "height": 57
+          },
+          {
+            "text": "Pradėjome nuo idėjossavo vaikui.",
+            "width": 284,
+            "height": 57
+          },
+          {
+            "text": "Leisti tyrinėti.Leisti atrasti.",
+            "width": 224,
+            "height": 57
+          },
+          {
+            "text": "Priemonė pradeda žaidimą.Jūs jį pratęsiate.",
+            "width": 284,
+            "height": 85
+          }
+        ],
+        "height": 4703
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "W1-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Didelis džiaugsmas.",
+            "width": 272,
+            "height": 106
+          },
+          {
+            "text": "Iš mūsų šeimosTavajai.",
+            "width": 212,
+            "height": 57
+          },
+          {
+            "text": "Pradėjome nuo idėjossavo vaikui.",
+            "width": 272,
+            "height": 57
+          },
+          {
+            "text": "Leisti tyrinėti.Leisti atrasti.",
+            "width": 212,
+            "height": 57
+          },
+          {
+            "text": "Priemonė pradeda žaidimą.Jūs jį pratęsiate.",
+            "width": 272,
+            "height": 85
+          }
+        ],
+        "height": 4885
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "W1-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Didelis džiaugsmas.",
+            "width": 354,
+            "height": 71
+          },
+          {
+            "text": "Iš mūsų šeimosTavajai.",
+            "width": 294,
+            "height": 57
+          },
+          {
+            "text": "Pradėjome nuo idėjossavo vaikui.",
+            "width": 354,
+            "height": 57
+          },
+          {
+            "text": "Leisti tyrinėti.Leisti atrasti.",
+            "width": 294,
+            "height": 57
+          },
+          {
+            "text": "Priemonė pradeda žaidimą.Jūs jį pratęsiate.",
+            "width": 354,
+            "height": 57
+          }
+        ],
+        "height": 4606
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "W1-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Didelis džiaugsmas.",
+            "width": 342,
+            "height": 71
+          },
+          {
+            "text": "Iš mūsų šeimosTavajai.",
+            "width": 282,
+            "height": 57
+          },
+          {
+            "text": "Pradėjome nuo idėjossavo vaikui.",
+            "width": 342,
+            "height": 57
+          },
+          {
+            "text": "Leisti tyrinėti.Leisti atrasti.",
+            "width": 282,
+            "height": 57
+          },
+          {
+            "text": "Priemonė pradeda žaidimą.Jūs jį pratęsiate.",
+            "width": 342,
+            "height": 57
+          }
+        ],
+        "height": 4661
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "W1-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Didelis džiaugsmas.",
+            "width": 394,
+            "height": 71
+          },
+          {
+            "text": "Iš mūsų šeimosTavajai.",
+            "width": 334,
+            "height": 57
+          },
+          {
+            "text": "Pradėjome nuo idėjossavo vaikui.",
+            "width": 394,
+            "height": 57
+          },
+          {
+            "text": "Leisti tyrinėti.Leisti atrasti.",
+            "width": 334,
+            "height": 57
+          },
+          {
+            "text": "Priemonė pradeda žaidimą.Jūs jį pratęsiate.",
+            "width": 394,
+            "height": 57
+          }
+        ],
+        "height": 4579
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "W1-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Didelis džiaugsmas.",
+            "width": 382,
+            "height": 71
+          },
+          {
+            "text": "Iš mūsų šeimosTavajai.",
+            "width": 322,
+            "height": 57
+          },
+          {
+            "text": "Pradėjome nuo idėjossavo vaikui.",
+            "width": 382,
+            "height": 57
+          },
+          {
+            "text": "Leisti tyrinėti.Leisti atrasti.",
+            "width": 322,
+            "height": 57
+          },
+          {
+            "text": "Priemonė pradeda žaidimą.Jūs jį pratęsiate.",
+            "width": 382,
+            "height": 57
+          }
+        ],
+        "height": 4586
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "W1-600.png": "185be3985586d5dc16efe0774f86a3b0236e2fa23642a9926a4fc566700b09e7",
+      "W1-600-stripped.png": "185be3985586d5dc16efe0774f86a3b0236e2fa23642a9926a4fc566700b09e7",
+      "W1-320.png": "f830b856ca1f44b543ea86cbc59805299da6b2d05163d4a1b5d2e1b984f3b743",
+      "W1-320-stripped.png": "80f835dc0688e3998b6ca1347a89a231e508e4e0778537e90a1505fa982a39ea",
+      "W1-390.png": "b3c4aede4ead6156f28d220aeeba2bbe322966e1505ec91dc75270816d68548f",
+      "W1-390-stripped.png": "2cb4d83b6e7ac538a9371adc36f99a3cbc66c76887409420a2e5157d55b1c66a",
+      "W1-430.png": "d585c6b9a93bc1e0e6fdb3895bc4bab8380444b401295916c532dbbfc5cb1c12",
+      "W1-430-stripped.png": "e1614d97fbad2e8163d05e5e2986bc3ba3f5c56114d7ed0d39b0fe23e39fab27"
+    }
+  },
+  {
+    "id": "W2",
+    "hashes": {
+      "W2.html": "36765b1efa3b1aaaa807ad4e8a8e5394b776481e5c32574f5d5b324329b7d3be"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "W2-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "O ką šiandienatras Tavo vaikas?",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "Maža kolonėlė.Daug istorijų.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Kiekvienam pomėgiuisavas žaidimas.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Pradėkite nuo vienomažo atradimo.",
+            "width": 552,
+            "height": 57
+          }
+        ],
+        "height": 4117
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "W2-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "O ką šiandienatras Tavo vaikas?",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "Maža kolonėlė.Daug istorijų.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Kiekvienam pomėgiuisavas žaidimas.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Pradėkite nuo vienomažo atradimo.",
+            "width": 552,
+            "height": 57
+          }
+        ],
+        "height": 4117
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "W2-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "O ką šiandienatras Tavo vaikas?",
+            "width": 284,
+            "height": 71
+          },
+          {
+            "text": "Maža kolonėlė.Daug istorijų.",
+            "width": 284,
+            "height": 57
+          },
+          {
+            "text": "Kiekvienam pomėgiuisavas žaidimas.",
+            "width": 284,
+            "height": 57
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Pradėkite nuo vienomažo atradimo.",
+            "width": 284,
+            "height": 57
+          }
+        ],
+        "height": 5417
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "W2-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "O ką šiandienatras Tavo vaikas?",
+            "width": 272,
+            "height": 71
+          },
+          {
+            "text": "Maža kolonėlė.Daug istorijų.",
+            "width": 272,
+            "height": 57
+          },
+          {
+            "text": "Kiekvienam pomėgiuisavas žaidimas.",
+            "width": 272,
+            "height": 57
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Pradėkite nuo vienomažo atradimo.",
+            "width": 272,
+            "height": 57
+          }
+        ],
+        "height": 5449
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "W2-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "O ką šiandienatras Tavo vaikas?",
+            "width": 354,
+            "height": 71
+          },
+          {
+            "text": "Maža kolonėlė.Daug istorijų.",
+            "width": 354,
+            "height": 57
+          },
+          {
+            "text": "Kiekvienam pomėgiuisavas žaidimas.",
+            "width": 354,
+            "height": 57
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Pradėkite nuo vienomažo atradimo.",
+            "width": 354,
+            "height": 57
+          }
+        ],
+        "height": 5673
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "W2-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "O ką šiandienatras Tavo vaikas?",
+            "width": 342,
+            "height": 71
+          },
+          {
+            "text": "Maža kolonėlė.Daug istorijų.",
+            "width": 342,
+            "height": 57
+          },
+          {
+            "text": "Kiekvienam pomėgiuisavas žaidimas.",
+            "width": 342,
+            "height": 57
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Pradėkite nuo vienomažo atradimo.",
+            "width": 342,
+            "height": 57
+          }
+        ],
+        "height": 5705
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "W2-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "O ką šiandienatras Tavo vaikas?",
+            "width": 394,
+            "height": 71
+          },
+          {
+            "text": "Maža kolonėlė.Daug istorijų.",
+            "width": 394,
+            "height": 57
+          },
+          {
+            "text": "Kiekvienam pomėgiuisavas žaidimas.",
+            "width": 394,
+            "height": 57
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Pradėkite nuo vienomažo atradimo.",
+            "width": 394,
+            "height": 57
+          }
+        ],
+        "height": 5836
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "W2-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "O ką šiandienatras Tavo vaikas?",
+            "width": 382,
+            "height": 71
+          },
+          {
+            "text": "Maža kolonėlė.Daug istorijų.",
+            "width": 382,
+            "height": 57
+          },
+          {
+            "text": "Kiekvienam pomėgiuisavas žaidimas.",
+            "width": 382,
+            "height": 57
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Pradėkite nuo vienomažo atradimo.",
+            "width": 382,
+            "height": 57
+          }
+        ],
+        "height": 5868
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "W2-600.png": "f6afa6baf2b04572e7d1045507466ff2fe169281192fb5917d83467694865c6e",
+      "W2-600-stripped.png": "f6afa6baf2b04572e7d1045507466ff2fe169281192fb5917d83467694865c6e",
+      "W2-320.png": "2baa59f36cfbfafba8ea5d5e91694f13215ecf7185e9a661c195b2fdb303c275",
+      "W2-320-stripped.png": "c90ee766deef44bf78392975066e935a393a806c2efe0004b355f752ca31dda8",
+      "W2-390.png": "56d0cf86397461e8354c8c70091f09db2c230d50fb35a12cfa93b1dca2ad6176",
+      "W2-390-stripped.png": "82e0ed2b0d7ea74ea36b6a348e6b759bf4f01e1fcadec4bf08c9df06c03ab305",
+      "W2-430.png": "abaa76b24d93aa08fabbe2a9212558f2a46b38ce72d489ebed841492182be37a",
+      "W2-430-stripped.png": "8034cfcf7c00e5159817f66c569742395d72966faf48fa789bc3377378c1efd9"
+    }
+  },
+  {
+    "id": "W3",
+    "hashes": {
+      "W3.html": "5199e23c9364cb917dacf57d7144120223a06da024065886aeb5562315ba74d3"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "W3-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Viena kortelė.Visas pokalbis.",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "168 dvipusės kortelės.336 lietuviški žodžiai.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Viskas viename rinkinyje.",
+            "width": 238,
+            "height": 57
+          }
+        ],
+        "height": 3326
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "W3-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Viena kortelė.Visas pokalbis.",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "168 dvipusės kortelės.336 lietuviški žodžiai.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Viskas viename rinkinyje.",
+            "width": 238,
+            "height": 57
+          }
+        ],
+        "height": 3326
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "W3-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Viena kortelė.Visas pokalbis.",
+            "width": 284,
+            "height": 71
+          },
+          {
+            "text": "168 dvipusės kortelės.336 lietuviški žodžiai.",
+            "width": 284,
+            "height": 57
+          },
+          {
+            "text": "Viskas viename rinkinyje.",
+            "width": 224,
+            "height": 57
+          }
+        ],
+        "height": 4003
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "W3-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Viena kortelė.Visas pokalbis.",
+            "width": 272,
+            "height": 71
+          },
+          {
+            "text": "168 dvipusės kortelės.336 lietuviški žodžiai.",
+            "width": 272,
+            "height": 57
+          },
+          {
+            "text": "Viskas viename rinkinyje.",
+            "width": 212,
+            "height": 57
+          }
+        ],
+        "height": 3959
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "W3-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Viena kortelė.Visas pokalbis.",
+            "width": 354,
+            "height": 71
+          },
+          {
+            "text": "168 dvipusės kortelės.336 lietuviški žodžiai.",
+            "width": 354,
+            "height": 57
+          },
+          {
+            "text": "Viskas viename rinkinyje.",
+            "width": 294,
+            "height": 28
+          }
+        ],
+        "height": 4028
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "W3-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Viena kortelė.Visas pokalbis.",
+            "width": 342,
+            "height": 71
+          },
+          {
+            "text": "168 dvipusės kortelės.336 lietuviški žodžiai.",
+            "width": 342,
+            "height": 57
+          },
+          {
+            "text": "Viskas viename rinkinyje.",
+            "width": 282,
+            "height": 28
+          }
+        ],
+        "height": 4014
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "W3-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Viena kortelė.Visas pokalbis.",
+            "width": 394,
+            "height": 71
+          },
+          {
+            "text": "168 dvipusės kortelės.336 lietuviški žodžiai.",
+            "width": 394,
+            "height": 57
+          },
+          {
+            "text": "Viskas viename rinkinyje.",
+            "width": 334,
+            "height": 28
+          }
+        ],
+        "height": 4125
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "W3-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Viena kortelė.Visas pokalbis.",
+            "width": 382,
+            "height": 71
+          },
+          {
+            "text": "168 dvipusės kortelės.336 lietuviški žodžiai.",
+            "width": 382,
+            "height": 57
+          },
+          {
+            "text": "Viskas viename rinkinyje.",
+            "width": 322,
+            "height": 28
+          }
+        ],
+        "height": 4081
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "W3-600.png": "ce5df46b912be5e4c83d6a180c3ea46816f1ad0dd084929845295a1893ff5621",
+      "W3-600-stripped.png": "ce5df46b912be5e4c83d6a180c3ea46816f1ad0dd084929845295a1893ff5621",
+      "W3-320.png": "35157e89adedd158825ec78580ebd8491a58982f46738112dddace912a2c27b4",
+      "W3-320-stripped.png": "83463d6fd5da97c6f5d7a3d693a86f7da81125be89bbdaec7afee54133d10d5a",
+      "W3-390.png": "6335b249a2b84fb93aefe45aa32e319e7dfeba4eda61c62f5b41e518d0cced8c",
+      "W3-390-stripped.png": "5df9fa9260842dfccffc3017e0a4ecbbb4e53a5388d9e16fb97fcad227986c9b",
+      "W3-430.png": "7c32458c9a3ab59267f0a138be5cf0a20e9191967daaa637e1fbb3de9343556a",
+      "W3-430-stripped.png": "3ebcc5a88ffc74d5e124b0e5ff832b65e3e561eb24ab305be432040f92640682"
+    }
+  },
+  {
+    "id": "W4",
+    "hashes": {
+      "W4.html": "eb13be4e4385562e0700ebff19838000b93e0b4c499f0c7c4dab5011351ac146"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "W4-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mažiems atradimamsužtenka puslapio.",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "Mano pirma lavinamojiveiklos knyga",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti. Suklysti.Pabandyti iš naujo.",
+            "width": 238,
+            "height": 57
+          }
+        ],
+        "height": 3801
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "W4-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mažiems atradimamsužtenka puslapio.",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "Mano pirma lavinamojiveiklos knyga",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti. Suklysti.Pabandyti iš naujo.",
+            "width": 238,
+            "height": 57
+          }
+        ],
+        "height": 3801
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "W4-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mažiems atradimamsužtenka puslapio.",
+            "width": 284,
+            "height": 106
+          },
+          {
+            "text": "Mano pirma lavinamojiveiklos knyga",
+            "width": 284,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti. Suklysti.Pabandyti iš naujo.",
+            "width": 224,
+            "height": 57
+          }
+        ],
+        "height": 4053
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "W4-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mažiems atradimamsužtenka puslapio.",
+            "width": 272,
+            "height": 106
+          },
+          {
+            "text": "Mano pirma lavinamojiveiklos knyga",
+            "width": 272,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti. Suklysti.Pabandyti iš naujo.",
+            "width": 212,
+            "height": 57
+          }
+        ],
+        "height": 4123
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "W4-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mažiems atradimamsužtenka puslapio.",
+            "width": 354,
+            "height": 71
+          },
+          {
+            "text": "Mano pirma lavinamojiveiklos knyga",
+            "width": 354,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti. Suklysti.Pabandyti iš naujo.",
+            "width": 294,
+            "height": 57
+          }
+        ],
+        "height": 4016
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "W4-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mažiems atradimamsužtenka puslapio.",
+            "width": 342,
+            "height": 71
+          },
+          {
+            "text": "Mano pirma lavinamojiveiklos knyga",
+            "width": 342,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti. Suklysti.Pabandyti iš naujo.",
+            "width": 282,
+            "height": 57
+          }
+        ],
+        "height": 3984
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "W4-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mažiems atradimamsužtenka puslapio.",
+            "width": 394,
+            "height": 71
+          },
+          {
+            "text": "Mano pirma lavinamojiveiklos knyga",
+            "width": 394,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti. Suklysti.Pabandyti iš naujo.",
+            "width": 334,
+            "height": 57
+          }
+        ],
+        "height": 3966
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "W4-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mažiems atradimamsužtenka puslapio.",
+            "width": 382,
+            "height": 71
+          },
+          {
+            "text": "Mano pirma lavinamojiveiklos knyga",
+            "width": 382,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti. Suklysti.Pabandyti iš naujo.",
+            "width": 322,
+            "height": 57
+          }
+        ],
+        "height": 3988
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "W4-600.png": "611a125db38c4004d63a57e94c797a3fbb5dbad25dbd0511a7a56e49985cff32",
+      "W4-600-stripped.png": "611a125db38c4004d63a57e94c797a3fbb5dbad25dbd0511a7a56e49985cff32",
+      "W4-320.png": "89e04826a3d665b2a26a5730b4bf2023532d077e83ee20f4c6fa4cf51fdf358d",
+      "W4-320-stripped.png": "940d7b0822e9da3cef2f4af09e5e4c952a4dd35e7ba98de4dcb23e77ddb2df8d",
+      "W4-390.png": "37b1b45060460410f25464567a5c517e8eb207d1e9bd46ffb54c275ea472158e",
+      "W4-390-stripped.png": "83b6c89e16bf04c4cf8efecf9fdf37731f26499e6c9be223c4b2806618d829d8",
+      "W4-430.png": "c2523f88828cf3ccfc55e7f1df797961730001705148d016ae57ae1300015665",
+      "W4-430-stripped.png": "fef098aff9362eb69bfe3210b395d8d3ac82978d919ce70197b769b99b98275b"
+    }
+  },
+  {
+    "id": "W5",
+    "hashes": {
+      "W5.html": "5994b1b55698bdfeb7d2e6b8114034f56f113af1ba088ae25f21a3068d922da3"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "W5-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas šiuo metuįdomiausia Tavo vaikui?",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "Vieta žaidimamsir savoms istorijoms.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Rinkis pagal tai,ką vaikas mėgsta.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Mėgsta klausytis?",
+            "width": 238,
+            "height": 28
+          },
+          {
+            "text": "Domisi paveikslėliaisir žodžiais?",
+            "width": 238,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti, pastebėtiir pabandyti pačiam.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          }
+        ],
+        "height": 3499
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "W5-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas šiuo metuįdomiausia Tavo vaikui?",
+            "width": 552,
+            "height": 71
+          },
+          {
+            "text": "Vieta žaidimamsir savoms istorijoms.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Rinkis pagal tai,ką vaikas mėgsta.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Mėgsta klausytis?",
+            "width": 238,
+            "height": 28
+          },
+          {
+            "text": "Domisi paveikslėliaisir žodžiais?",
+            "width": 238,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti, pastebėtiir pabandyti pačiam.",
+            "width": 552,
+            "height": 57
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          }
+        ],
+        "height": 3499
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "W5-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas šiuo metuįdomiausia Tavo vaikui?",
+            "width": 284,
+            "height": 106
+          },
+          {
+            "text": "Vieta žaidimamsir savoms istorijoms.",
+            "width": 284,
+            "height": 57
+          },
+          {
+            "text": "Rinkis pagal tai,ką vaikas mėgsta.",
+            "width": 284,
+            "height": 57
+          },
+          {
+            "text": "Mėgsta klausytis?",
+            "width": 224,
+            "height": 28
+          },
+          {
+            "text": "Domisi paveikslėliaisir žodžiais?",
+            "width": 224,
+            "height": 85
+          },
+          {
+            "text": "Dėlioti, pastebėtiir pabandyti pačiam.",
+            "width": 284,
+            "height": 57
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 236,
+            "height": 50
+          }
+        ],
+        "height": 4647
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "W5-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas šiuo metuįdomiausia Tavo vaikui?",
+            "width": 272,
+            "height": 106
+          },
+          {
+            "text": "Vieta žaidimamsir savoms istorijoms.",
+            "width": 272,
+            "height": 57
+          },
+          {
+            "text": "Rinkis pagal tai,ką vaikas mėgsta.",
+            "width": 272,
+            "height": 57
+          },
+          {
+            "text": "Mėgsta klausytis?",
+            "width": 212,
+            "height": 28
+          },
+          {
+            "text": "Domisi paveikslėliaisir žodžiais?",
+            "width": 212,
+            "height": 85
+          },
+          {
+            "text": "Dėlioti, pastebėtiir pabandyti pačiam.",
+            "width": 272,
+            "height": 57
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 238,
+            "height": 50
+          }
+        ],
+        "height": 4674
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "W5-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas šiuo metuįdomiausia Tavo vaikui?",
+            "width": 354,
+            "height": 71
+          },
+          {
+            "text": "Vieta žaidimamsir savoms istorijoms.",
+            "width": 354,
+            "height": 57
+          },
+          {
+            "text": "Rinkis pagal tai,ką vaikas mėgsta.",
+            "width": 354,
+            "height": 57
+          },
+          {
+            "text": "Mėgsta klausytis?",
+            "width": 294,
+            "height": 28
+          },
+          {
+            "text": "Domisi paveikslėliaisir žodžiais?",
+            "width": 294,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti, pastebėtiir pabandyti pačiam.",
+            "width": 354,
+            "height": 57
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 306,
+            "height": 50
+          }
+        ],
+        "height": 4733
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "W5-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas šiuo metuįdomiausia Tavo vaikui?",
+            "width": 342,
+            "height": 71
+          },
+          {
+            "text": "Vieta žaidimamsir savoms istorijoms.",
+            "width": 342,
+            "height": 57
+          },
+          {
+            "text": "Rinkis pagal tai,ką vaikas mėgsta.",
+            "width": 342,
+            "height": 57
+          },
+          {
+            "text": "Mėgsta klausytis?",
+            "width": 282,
+            "height": 28
+          },
+          {
+            "text": "Domisi paveikslėliaisir žodžiais?",
+            "width": 282,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti, pastebėtiir pabandyti pačiam.",
+            "width": 342,
+            "height": 57
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 308,
+            "height": 50
+          }
+        ],
+        "height": 4732
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "W5-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas šiuo metuįdomiausia Tavo vaikui?",
+            "width": 394,
+            "height": 71
+          },
+          {
+            "text": "Vieta žaidimamsir savoms istorijoms.",
+            "width": 394,
+            "height": 57
+          },
+          {
+            "text": "Rinkis pagal tai,ką vaikas mėgsta.",
+            "width": 394,
+            "height": 57
+          },
+          {
+            "text": "Mėgsta klausytis?",
+            "width": 334,
+            "height": 28
+          },
+          {
+            "text": "Domisi paveikslėliaisir žodžiais?",
+            "width": 334,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti, pastebėtiir pabandyti pačiam.",
+            "width": 394,
+            "height": 57
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 346,
+            "height": 50
+          }
+        ],
+        "height": 4868
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "W5-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas šiuo metuįdomiausia Tavo vaikui?",
+            "width": 382,
+            "height": 71
+          },
+          {
+            "text": "Vieta žaidimamsir savoms istorijoms.",
+            "width": 382,
+            "height": 57
+          },
+          {
+            "text": "Rinkis pagal tai,ką vaikas mėgsta.",
+            "width": 382,
+            "height": 57
+          },
+          {
+            "text": "Mėgsta klausytis?",
+            "width": 322,
+            "height": 28
+          },
+          {
+            "text": "Domisi paveikslėliaisir žodžiais?",
+            "width": 322,
+            "height": 57
+          },
+          {
+            "text": "Dėlioti, pastebėtiir pabandyti pačiam.",
+            "width": 382,
+            "height": 57
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 348,
+            "height": 50
+          }
+        ],
+        "height": 4840
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "W5-600.png": "dc78f50897204893a662166b547086d9aaa6f4ad2cf89020d889ee033cec78a7",
+      "W5-600-stripped.png": "dc78f50897204893a662166b547086d9aaa6f4ad2cf89020d889ee033cec78a7",
+      "W5-320.png": "f208e619792d405c160c92ea12df76a926cd73fa54a8e939caab49f66c126501",
+      "W5-320-stripped.png": "51d9ba299124c80fd47411ac2c14ea61cfdc3f7a1cfb017a8aafc519f1de5f01",
+      "W5-390.png": "337c6edc1a96fc681ba089f421aaa4bb787537caf0b003b3f4f14138c26331ef",
+      "W5-390-stripped.png": "d32b144b426e3a9ce61770864934abc1d4e3af7cc916021b255a12dae01363ab",
+      "W5-430.png": "e9f5e14d03e64a88a7c3a483635e2465ec1d076f0af62db19a0065ecbd53475b",
+      "W5-430-stripped.png": "cdc0b711f5262c524b2e50006a10a060cdf4650bd55c2908a1248ba7c2d9b7de"
+    }
+  },
+  {
+    "id": "AC1",
+    "hashes": {
+      "AC1-top.html": "4e448475563bf8abbbc10a734440d307a9f03de85452e6569c5a35140b666a9a",
+      "AC1-bottom.html": "cd95140b94ae3d37cb66195cfc5b425b4754cc2f8f1889074ff7f7eef0deffc8"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "AC1-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Dar vienas žingsnis.",
+            "width": 504,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 1926
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "AC1-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Dar vienas žingsnis.",
+            "width": 504,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 1926
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "AC1-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Dar vienas žingsnis.",
+            "width": 224,
+            "height": 99
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 2446
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "AC1-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Dar vienas žingsnis.",
+            "width": 224,
+            "height": 99
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 2446
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "AC1-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Dar vienas žingsnis.",
+            "width": 294,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 2392
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "AC1-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Dar vienas žingsnis.",
+            "width": 294,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 2392
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "AC1-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Dar vienas žingsnis.",
+            "width": 334,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 2414
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "AC1-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Maži atradimai.Dar vienas žingsnis.",
+            "width": 334,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 2414
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "AC1-600.png": "b27b6afcfba38086cbc0b3da55d02a1aef36efada158b50dc87c9ca49ba77864",
+      "AC1-600-stripped.png": "b27b6afcfba38086cbc0b3da55d02a1aef36efada158b50dc87c9ca49ba77864",
+      "AC1-320.png": "f2da926dca708d3ef482d0ce4cfb845ffad7046697faf990ddc58961f6386e67",
+      "AC1-320-stripped.png": "f2da926dca708d3ef482d0ce4cfb845ffad7046697faf990ddc58961f6386e67",
+      "AC1-390.png": "e97c4f7db26542366f79bd3914c5db28329a7aa6977c69c8b79746978d943b96",
+      "AC1-390-stripped.png": "e97c4f7db26542366f79bd3914c5db28329a7aa6977c69c8b79746978d943b96",
+      "AC1-430.png": "5d48f863e9450a1b564f8fdacd69461ab1e5f04cb236ec922fa427e1c0757cff",
+      "AC1-430-stripped.png": "5d48f863e9450a1b564f8fdacd69461ab1e5f04cb236ec922fa427e1c0757cff"
+    }
+  },
+  {
+    "id": "AC2",
+    "hashes": {
+      "AC2-top.html": "ed82be6a41384899d34c8f5241171ac6cb818b223cd1e2284882d883873e3bb6",
+      "AC2-bottom.html": "fe0fe9986d4db8ec2707d1ee5234fd6ef70fe8a81249b6db317f8d1d08d1a104"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "AC2-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Dar svarstai?Padėsiu.",
+            "width": 504,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 2464
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "AC2-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Dar svarstai?Padėsiu.",
+            "width": 504,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 2464
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "AC2-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Dar svarstai?Padėsiu.",
+            "width": 224,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 2966
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "AC2-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Dar svarstai?Padėsiu.",
+            "width": 224,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 2966
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "AC2-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Dar svarstai?Padėsiu.",
+            "width": 294,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 2932
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "AC2-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Dar svarstai?Padėsiu.",
+            "width": 294,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 2932
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "AC2-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Dar svarstai?Padėsiu.",
+            "width": 334,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 2932
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "AC2-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Dar svarstai?Padėsiu.",
+            "width": 334,
+            "height": 66
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 2932
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "AC2-600.png": "3e91fef189356b7d4a8bf50d4002c50e35c888182391e131731a8a0f77abe39f",
+      "AC2-600-stripped.png": "3e91fef189356b7d4a8bf50d4002c50e35c888182391e131731a8a0f77abe39f",
+      "AC2-320.png": "96e050b5089ad970c79b51760772ca405390788bc17800fba139edd3c7335cc6",
+      "AC2-320-stripped.png": "96e050b5089ad970c79b51760772ca405390788bc17800fba139edd3c7335cc6",
+      "AC2-390.png": "6dff3d1fc82f865a60784b29dd881119095d78b7d616d16998d073edbc147924",
+      "AC2-390-stripped.png": "6dff3d1fc82f865a60784b29dd881119095d78b7d616d16998d073edbc147924",
+      "AC2-430.png": "30868f63749fe9d5c7cc51b703f288c9784c627d10b69a9489c8f67bccb4cfd8",
+      "AC2-430-stripped.png": "30868f63749fe9d5c7cc51b703f288c9784c627d10b69a9489c8f67bccb4cfd8"
+    }
+  },
+  {
+    "id": "AC3",
+    "hashes": {
+      "AC3-top.html": "3327485eb21c5da4d21fb041bf8b5a94c542cb8a9fcc5f7ccfb651baec049ebc",
+      "AC3-bottom.html": "8a611451efd951813b75ea5fa9525392d1d3c24b6a5753529360300447f6b4ab"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "AC3-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Sugrįžk su10 % nuolaida.",
+            "width": 504,
+            "height": 69
+          },
+          {
+            "text": "Kaip pasinaudoti dovana?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 2270
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "AC3-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Sugrįžk su10 % nuolaida.",
+            "width": 504,
+            "height": 69
+          },
+          {
+            "text": "Kaip pasinaudoti dovana?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 2270
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "AC3-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Sugrįžk su10 % nuolaida.",
+            "width": 224,
+            "height": 69
+          },
+          {
+            "text": "Kaip pasinaudoti dovana?",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 2856
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "AC3-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Sugrįžk su10 % nuolaida.",
+            "width": 224,
+            "height": 69
+          },
+          {
+            "text": "Kaip pasinaudoti dovana?",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 2856
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "AC3-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Sugrįžk su10 % nuolaida.",
+            "width": 294,
+            "height": 69
+          },
+          {
+            "text": "Kaip pasinaudoti dovana?",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 2813
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "AC3-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Sugrįžk su10 % nuolaida.",
+            "width": 294,
+            "height": 69
+          },
+          {
+            "text": "Kaip pasinaudoti dovana?",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 2813
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "AC3-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Sugrįžk su10 % nuolaida.",
+            "width": 334,
+            "height": 69
+          },
+          {
+            "text": "Kaip pasinaudoti dovana?",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 2759
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "AC3-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Sugrįžk su10 % nuolaida.",
+            "width": 334,
+            "height": 69
+          },
+          {
+            "text": "Kaip pasinaudoti dovana?",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Pasikalbėkime?",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 2759
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "AC3-600.png": "92fd9842e85ba40527a3b6907103366ed041d8b9bac6071cfe5483afa2416693",
+      "AC3-600-stripped.png": "92fd9842e85ba40527a3b6907103366ed041d8b9bac6071cfe5483afa2416693",
+      "AC3-320.png": "e81e5b8c4a5db011e7c4d4a44b61bbce4f20761af1d3f71cc28a8597c20aab5b",
+      "AC3-320-stripped.png": "e81e5b8c4a5db011e7c4d4a44b61bbce4f20761af1d3f71cc28a8597c20aab5b",
+      "AC3-390.png": "72ac948e3e83f50d02b418a50d79d231315ebac444d690ab04425d039f471324",
+      "AC3-390-stripped.png": "72ac948e3e83f50d02b418a50d79d231315ebac444d690ab04425d039f471324",
+      "AC3-430.png": "2de17e36f256cf157bbefaf49b7a7f6c447a1ad68e4abaf8750bb20a3840bd72",
+      "AC3-430-stripped.png": "2de17e36f256cf157bbefaf49b7a7f6c447a1ad68e4abaf8750bb20a3840bd72"
+    }
+  },
+  {
+    "id": "CH1",
+    "hashes": {
+      "CH1-top.html": "9a36f5a8f77bea50521333a6d106f80b8095ca3f3e27b2ccd5c292c8c3ba65f7",
+      "CH1-bottom.html": "a15ef6596693ae0c62d9dd40111737b1484e749c87ee156998b51df26fc3cb6a"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "CH1-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymą.Pradėkite atradimus.",
+            "width": 504,
+            "height": 67
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 260,
+            "height": 58
+          }
+        ],
+        "height": 2121
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "CH1-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymą.Pradėkite atradimus.",
+            "width": 504,
+            "height": 67
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 260,
+            "height": 58
+          }
+        ],
+        "height": 2121
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "CH1-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymą.Pradėkite atradimus.",
+            "width": 224,
+            "height": 134
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 256,
+            "height": 58
+          }
+        ],
+        "height": 2596
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "CH1-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymą.Pradėkite atradimus.",
+            "width": 224,
+            "height": 134
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 256,
+            "height": 58
+          }
+        ],
+        "height": 2596
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "CH1-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymą.Pradėkite atradimus.",
+            "width": 294,
+            "height": 67
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 2503
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "CH1-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymą.Pradėkite atradimus.",
+            "width": 294,
+            "height": 67
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 2503
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "CH1-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymą.Pradėkite atradimus.",
+            "width": 334,
+            "height": 67
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 2538
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "CH1-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymą.Pradėkite atradimus.",
+            "width": 334,
+            "height": 67
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 2538
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "CH1-600.png": "0ec4ffcf092f88fd38ca3ac793ebde7d0fc6a24109d2a8c764fb3ffa9efd265d",
+      "CH1-600-stripped.png": "0ec4ffcf092f88fd38ca3ac793ebde7d0fc6a24109d2a8c764fb3ffa9efd265d",
+      "CH1-320.png": "0ceffb1ca925b86a942d1614713c220c10a98bbf86d0ff6fbc8e51f345387758",
+      "CH1-320-stripped.png": "0ceffb1ca925b86a942d1614713c220c10a98bbf86d0ff6fbc8e51f345387758",
+      "CH1-390.png": "4583251a08128d46501cada6993d3a840853eb3c2c0be5cf2ade9f4b55f22757",
+      "CH1-390-stripped.png": "4583251a08128d46501cada6993d3a840853eb3c2c0be5cf2ade9f4b55f22757",
+      "CH1-430.png": "dbef69e5e52fd10ae047d105c85a9f454d7eae12bd820f67a2b40e7113d399cd",
+      "CH1-430-stripped.png": "dbef69e5e52fd10ae047d105c85a9f454d7eae12bd820f67a2b40e7113d399cd"
+    }
+  },
+  {
+    "id": "CH2",
+    "hashes": {
+      "CH2-top.html": "4678027dee89bf1ffd1f8f60d5a1ec899841f103b14d56ddfab713ebd01c33cf",
+      "CH2-bottom.html": "bea0187b7982d39d8a26b6e03cc40661131a4f4c6632dfa91981fad5557a6349"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "CH2-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymąsu 10 % nuolaida.",
+            "width": 504,
+            "height": 69
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 260,
+            "height": 58
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          }
+        ],
+        "height": 2483
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "CH2-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymąsu 10 % nuolaida.",
+            "width": 504,
+            "height": 69
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 260,
+            "height": 58
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 540,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 228,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 228,
+            "height": 24
+          }
+        ],
+        "height": 2483
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "CH2-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymąsu 10 % nuolaida.",
+            "width": 224,
+            "height": 138
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 256,
+            "height": 58
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          }
+        ],
+        "height": 3227
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "CH2-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymąsu 10 % nuolaida.",
+            "width": 224,
+            "height": 138
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 256,
+            "height": 58
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 260,
+            "height": 60
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 224,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 224,
+            "height": 24
+          }
+        ],
+        "height": 3227
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "CH2-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymąsu 10 % nuolaida.",
+            "width": 294,
+            "height": 69
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 326,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          }
+        ],
+        "height": 3007
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "CH2-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymąsu 10 % nuolaida.",
+            "width": 294,
+            "height": 69
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 326,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 330,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 294,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 294,
+            "height": 24
+          }
+        ],
+        "height": 3007
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "CH2-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymąsu 10 % nuolaida.",
+            "width": 334,
+            "height": 69
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 366,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          }
+        ],
+        "height": 2993
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "CH2-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Užbaik užsakymąsu 10 % nuolaida.",
+            "width": 334,
+            "height": 69
+          },
+          {
+            "text": "Kas sutrukdė užbaigti?",
+            "width": 366,
+            "height": 29
+          },
+          {
+            "text": "Pristatymas ir grąžinimas",
+            "width": 370,
+            "height": 30
+          },
+          {
+            "text": "Į pasirinktą paštomatą",
+            "width": 334,
+            "height": 24
+          },
+          {
+            "text": "Jei prekė netiktų",
+            "width": 334,
+            "height": 24
+          }
+        ],
+        "height": 2993
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "CH2-600.png": "137c61aa2996643dd97c7f77baacb0c440b193bda50a446f6ffbfd1d355e7776",
+      "CH2-600-stripped.png": "137c61aa2996643dd97c7f77baacb0c440b193bda50a446f6ffbfd1d355e7776",
+      "CH2-320.png": "157f486c4da77c1641fcdc1df3908a029e44eeba3384bac79af5b3988940859c",
+      "CH2-320-stripped.png": "157f486c4da77c1641fcdc1df3908a029e44eeba3384bac79af5b3988940859c",
+      "CH2-390.png": "9756863bdd63cfa0277c5da6171f03f253c25e04c35b3bf32bf77683d2da7c0f",
+      "CH2-390-stripped.png": "9756863bdd63cfa0277c5da6171f03f253c25e04c35b3bf32bf77683d2da7c0f",
+      "CH2-430.png": "813db0f9480b4c13574bf711cdcfa84c1358c339792d511cc87ba43a26391283",
+      "CH2-430-stripped.png": "813db0f9480b4c13574bf711cdcfa84c1358c339792d511cc87ba43a26391283"
+    }
+  },
+  {
+    "id": "WB1",
+    "hashes": {
+      "WB1.html": "ebed75c41e75a344db1f19960a1f20cdc4fb2f74565f95e64f1ca56559c0729e"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "WB1-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mes Tavęs pasiilgome!",
+            "width": 502,
+            "height": 36
+          },
+          {
+            "text": "Pasaka ar naujas žodis?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          }
+        ],
+        "height": 3083
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "WB1-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mes Tavęs pasiilgome!",
+            "width": 502,
+            "height": 36
+          },
+          {
+            "text": "Pasaka ar naujas žodis?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          }
+        ],
+        "height": 3083
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "WB1-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mes Tavęs pasiilgome!",
+            "width": 234,
+            "height": 72
+          },
+          {
+            "text": "Pasaka ar naujas žodis?",
+            "width": 284,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 284,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 284,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 236,
+            "height": 50
+          }
+        ],
+        "height": 5047
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "WB1-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mes Tavęs pasiilgome!",
+            "width": 222,
+            "height": 72
+          },
+          {
+            "text": "Pasaka ar naujas žodis?",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 272,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 272,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 238,
+            "height": 50
+          }
+        ],
+        "height": 5164
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "WB1-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mes Tavęs pasiilgome!",
+            "width": 304,
+            "height": 72
+          },
+          {
+            "text": "Pasaka ar naujas žodis?",
+            "width": 354,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 354,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 354,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 306,
+            "height": 50
+          }
+        ],
+        "height": 5289
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "WB1-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mes Tavęs pasiilgome!",
+            "width": 292,
+            "height": 72
+          },
+          {
+            "text": "Pasaka ar naujas žodis?",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 308,
+            "height": 50
+          }
+        ],
+        "height": 5352
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "WB1-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mes Tavęs pasiilgome!",
+            "width": 344,
+            "height": 36
+          },
+          {
+            "text": "Pasaka ar naujas žodis?",
+            "width": 394,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 394,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 394,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 346,
+            "height": 50
+          }
+        ],
+        "height": 5399
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "WB1-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Mes Tavęs pasiilgome!",
+            "width": 332,
+            "height": 36
+          },
+          {
+            "text": "Pasaka ar naujas žodis?",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 348,
+            "height": 50
+          }
+        ],
+        "height": 5462
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "WB1-600.png": "fc894b24fa6294616ff44839e1d9f5e686c4c30b56dfcaf1b2a9f37da1f0d00e",
+      "WB1-600-stripped.png": "fc894b24fa6294616ff44839e1d9f5e686c4c30b56dfcaf1b2a9f37da1f0d00e",
+      "WB1-320.png": "b34efd3700da22facd9558971c17d3dc4293a268989260443796e61276128aa1",
+      "WB1-320-stripped.png": "e304eb7cd4c5849e1a97a87a1cabac5ea3cc673352d0654a0ab846a59144939f",
+      "WB1-390.png": "b981db26ab5c208c1c2b313628fad7ddf8f06f05bd66371d62847e826db9758c",
+      "WB1-390-stripped.png": "37f110b2a8d4df082f47c15548efc83addcec7f4dfd59571a77191b6060e4d18",
+      "WB1-430.png": "2dac2a219501625b2fadf074b14376f684053ae336fef5c97a10c6fe89bd2956",
+      "WB1-430-stripped.png": "ed86453b1ede49b690a3006b1099445c3439370d316547946f0d217b364b462d"
+    }
+  },
+  {
+    "id": "WB2",
+    "hashes": {
+      "WB2.html": "c8ffadffd9553ea0faad46bb00b282ef1d470731bb945126f11a2ed2afcde43f"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "WB2-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Pasiilgome Tavęs.Sugrįžk su 10 % dovana.",
+            "width": 552,
+            "height": 69
+          },
+          {
+            "text": "Dainoms ir naujiems žodžiams.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          }
+        ],
+        "height": 3985
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "WB2-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Pasiilgome Tavęs.Sugrįžk su 10 % dovana.",
+            "width": 552,
+            "height": 69
+          },
+          {
+            "text": "Dainoms ir naujiems žodžiams.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          }
+        ],
+        "height": 3985
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "WB2-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Pasiilgome Tavęs.Sugrįžk su 10 % dovana.",
+            "width": 284,
+            "height": 104
+          },
+          {
+            "text": "Dainoms ir naujiems žodžiams.",
+            "width": 284,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 284,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 284,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 236,
+            "height": 50
+          }
+        ],
+        "height": 5702
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "WB2-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Pasiilgome Tavęs.Sugrįžk su 10 % dovana.",
+            "width": 272,
+            "height": 104
+          },
+          {
+            "text": "Dainoms ir naujiems žodžiams.",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 272,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 272,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 238,
+            "height": 50
+          }
+        ],
+        "height": 5732
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "WB2-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Pasiilgome Tavęs.Sugrįžk su 10 % dovana.",
+            "width": 354,
+            "height": 69
+          },
+          {
+            "text": "Dainoms ir naujiems žodžiams.",
+            "width": 354,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 354,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 354,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 306,
+            "height": 50
+          }
+        ],
+        "height": 6022
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "WB2-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Pasiilgome Tavęs.Sugrįžk su 10 % dovana.",
+            "width": 342,
+            "height": 69
+          },
+          {
+            "text": "Dainoms ir naujiems žodžiams.",
+            "width": 342,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 308,
+            "height": 50
+          }
+        ],
+        "height": 6051
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "WB2-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Pasiilgome Tavęs.Sugrįžk su 10 % dovana.",
+            "width": 394,
+            "height": 69
+          },
+          {
+            "text": "Dainoms ir naujiems žodžiams.",
+            "width": 394,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 394,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 394,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 346,
+            "height": 50
+          }
+        ],
+        "height": 6181
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "WB2-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Pasiilgome Tavęs.Sugrįžk su 10 % dovana.",
+            "width": 382,
+            "height": 69
+          },
+          {
+            "text": "Dainoms ir naujiems žodžiams.",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "O kur tinka ši detalė?",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Vieta savoms idėjoms.",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 348,
+            "height": 50
+          }
+        ],
+        "height": 6210
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "WB2-600.png": "4499f0a4dfa4c9fb05aaeb08c61aa9e71bda1eb8796e5e43418009d4c546e671",
+      "WB2-600-stripped.png": "4499f0a4dfa4c9fb05aaeb08c61aa9e71bda1eb8796e5e43418009d4c546e671",
+      "WB2-320.png": "d58e4bbc056ad7e8a0b34166cdafce8b543ee2534c75b6685a4a8bc6891cdc7b",
+      "WB2-320-stripped.png": "3f3403cc3b33333301e6bf4d45d834d998295103f6cedbfdf3befbbb958ad4fb",
+      "WB2-390.png": "8095686a16704a9b58ce0b477b0dce118b4334822f1c38f15570daf529b5adf3",
+      "WB2-390-stripped.png": "dd28de4a1bb1d58081342cc15eb9bcef8d200d2db36c278980c93c6168645867",
+      "WB2-430.png": "1554475576d034340b27bddec433787440512f6176b47e5faa3dde032313193a",
+      "WB2-430-stripped.png": "11b7baff0350f6e67e8138d60a47f29e30caf256c257fccaaa95bfe4fc48b355"
+    }
+  },
+  {
+    "id": "WB3",
+    "hashes": {
+      "WB3.html": "338d05a274aa1032bb8b26ee2f7d7e334e66e8ddd897ec3a1693245e4796cd84"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "WB3-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Nežinai, ką išrinkti?Padėsiu.",
+            "width": 502,
+            "height": 72
+          },
+          {
+            "text": "Dainoms, pasakoms ir žodžiams.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Dėlioti ir ieškoti atsakymo.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Piešiniams ir savoms istorijoms.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          }
+        ],
+        "height": 3416
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "WB3-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Nežinai, ką išrinkti?Padėsiu.",
+            "width": 502,
+            "height": 72
+          },
+          {
+            "text": "Dainoms, pasakoms ir žodžiams.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Dėlioti ir ieškoti atsakymo.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Piešiniams ir savoms istorijoms.",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          }
+        ],
+        "height": 3416
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "WB3-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Nežinai, ką išrinkti?Padėsiu.",
+            "width": 234,
+            "height": 108
+          },
+          {
+            "text": "Dainoms, pasakoms ir žodžiams.",
+            "width": 284,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Dėlioti ir ieškoti atsakymo.",
+            "width": 284,
+            "height": 58
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "Piešiniams ir savoms istorijoms.",
+            "width": 284,
+            "height": 58
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 236,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 236,
+            "height": 50
+          }
+        ],
+        "height": 5107
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "WB3-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Nežinai, ką išrinkti?Padėsiu.",
+            "width": 222,
+            "height": 108
+          },
+          {
+            "text": "Dainoms, pasakoms ir žodžiams.",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Dėlioti ir ieškoti atsakymo.",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Piešiniams ir savoms istorijoms.",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 238,
+            "height": 50
+          }
+        ],
+        "height": 5162
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "WB3-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Nežinai, ką išrinkti?Padėsiu.",
+            "width": 304,
+            "height": 72
+          },
+          {
+            "text": "Dainoms, pasakoms ir žodžiams.",
+            "width": 354,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Dėlioti ir ieškoti atsakymo.",
+            "width": 354,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "Piešiniams ir savoms istorijoms.",
+            "width": 354,
+            "height": 58
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 306,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 306,
+            "height": 50
+          }
+        ],
+        "height": 5413
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "WB3-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Nežinai, ką išrinkti?Padėsiu.",
+            "width": 292,
+            "height": 72
+          },
+          {
+            "text": "Dainoms, pasakoms ir žodžiams.",
+            "width": 342,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Dėlioti ir ieškoti atsakymo.",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Piešiniams ir savoms istorijoms.",
+            "width": 342,
+            "height": 58
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 308,
+            "height": 50
+          }
+        ],
+        "height": 5443
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "WB3-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Nežinai, ką išrinkti?Padėsiu.",
+            "width": 344,
+            "height": 72
+          },
+          {
+            "text": "Dainoms, pasakoms ir žodžiams.",
+            "width": 394,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Dėlioti ir ieškoti atsakymo.",
+            "width": 394,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "Piešiniams ir savoms istorijoms.",
+            "width": 394,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 346,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 346,
+            "height": 50
+          }
+        ],
+        "height": 5605
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "WB3-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Nežinai, ką išrinkti?Padėsiu.",
+            "width": 332,
+            "height": 72
+          },
+          {
+            "text": "Dainoms, pasakoms ir žodžiams.",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Dėlioti ir ieškoti atsakymo.",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Piešiniams ir savoms istorijoms.",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 348,
+            "height": 50
+          }
+        ],
+        "height": 5609
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "WB3-600.png": "832c5f49c83beaef81cf10744cd03c090074f4a2ab81c76d3d928fc8ebdd4303",
+      "WB3-600-stripped.png": "832c5f49c83beaef81cf10744cd03c090074f4a2ab81c76d3d928fc8ebdd4303",
+      "WB3-320.png": "28df9ea49ebd5012d3662debc4ace1fb379337c84169d60c28ce704e96002b36",
+      "WB3-320-stripped.png": "9e20c770b00adc82b609337e8cd9800c8c84e13b7583768d4f44e885baac3e54",
+      "WB3-390.png": "ab0d45fdf29ed2d1b1ebccb7b773e4bda1290f4e71783aa6389ab8d56ca735af",
+      "WB3-390-stripped.png": "53cc74a05db344fdc764d296d7c0e992c86c45f1297dca3f9a8ea94c425b175a",
+      "WB3-430.png": "6e5705b1f74bf6d1c705c61718e8ee0ccfbf77f2267a5418308c32d1c305425c",
+      "WB3-430-stripped.png": "deb70269bd93d72cb6ff079db94a54d66606e85b6c24f2bee222eeea7e4f3983"
+    }
+  },
+  {
+    "id": "AP1",
+    "hashes": {
+      "AP1-top.html": "8214a39b63a7edbb38f8845ef139eb49aefecb8d07de781c79be26c8bdd9ee54",
+      "AP1-bottom.html": "64e1cd2cf468b89f23de3a2833c4b60554efc06ac07b295fc35eaaca83fa6986"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "AP1-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Norisi apžiūrėtidar kartą?",
+            "width": 504,
+            "height": 69
+          },
+          {
+            "text": "Gal sudomins ir šios priemonės?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 2868
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "AP1-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Norisi apžiūrėtidar kartą?",
+            "width": 504,
+            "height": 69
+          },
+          {
+            "text": "Gal sudomins ir šios priemonės?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 2868
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "AP1-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Norisi apžiūrėtidar kartą?",
+            "width": 224,
+            "height": 69
+          },
+          {
+            "text": "Gal sudomins ir šios priemonės?",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 4816
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "AP1-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Norisi apžiūrėtidar kartą?",
+            "width": 224,
+            "height": 69
+          },
+          {
+            "text": "Gal sudomins ir šios priemonės?",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 4816
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "AP1-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Norisi apžiūrėtidar kartą?",
+            "width": 294,
+            "height": 69
+          },
+          {
+            "text": "Gal sudomins ir šios priemonės?",
+            "width": 342,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 5220
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "AP1-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Norisi apžiūrėtidar kartą?",
+            "width": 294,
+            "height": 69
+          },
+          {
+            "text": "Gal sudomins ir šios priemonės?",
+            "width": 342,
+            "height": 58
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 5220
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "AP1-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Norisi apžiūrėtidar kartą?",
+            "width": 334,
+            "height": 69
+          },
+          {
+            "text": "Gal sudomins ir šios priemonės?",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 5398
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "AP1-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Norisi apžiūrėtidar kartą?",
+            "width": 334,
+            "height": 69
+          },
+          {
+            "text": "Gal sudomins ir šios priemonės?",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 5398
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "AP1-600.png": "6bbbb4b600791095399fb8708799ab6673ad34ac232fc3eec010228084a0ab56",
+      "AP1-600-stripped.png": "6bbbb4b600791095399fb8708799ab6673ad34ac232fc3eec010228084a0ab56",
+      "AP1-320.png": "d684f0cb3cdc5f6ffae2ac76aa2fd1bcbb138bc3624a25264afa8caa87584345",
+      "AP1-320-stripped.png": "d684f0cb3cdc5f6ffae2ac76aa2fd1bcbb138bc3624a25264afa8caa87584345",
+      "AP1-390.png": "98cc6c5091117c2513f5dbbb7daabba12b071bc19d820e1d768ed7d2c1fe798c",
+      "AP1-390-stripped.png": "98cc6c5091117c2513f5dbbb7daabba12b071bc19d820e1d768ed7d2c1fe798c",
+      "AP1-430.png": "089600196d92f13ac6e1c49584d86a601b7c924beb44b857aecd3d9360e66af8",
+      "AP1-430-stripped.png": "089600196d92f13ac6e1c49584d86a601b7c924beb44b857aecd3d9360e66af8"
+    }
+  },
+  {
+    "id": "AP2",
+    "hashes": {
+      "AP2-top.html": "f49c49d87aa52428ffd4e2b696858139b63417915e5b498be501cea6ff1bfb5d",
+      "AP2-bottom.html": "533b0a08bd1101fa9bb0c356b80f35039f9c8f8e3c3aec16d60c0b4349e7caaf"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "AP2-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas patiktųlabiausiai?",
+            "width": 504,
+            "height": 69
+          },
+          {
+            "text": "Kas patinka Tavo vaikui?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 2905
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "AP2-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas patiktųlabiausiai?",
+            "width": 504,
+            "height": 69
+          },
+          {
+            "text": "Kas patinka Tavo vaikui?",
+            "width": 552,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 235,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 260,
+            "height": 29
+          }
+        ],
+        "height": 2905
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "AP2-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas patiktųlabiausiai?",
+            "width": 224,
+            "height": 69
+          },
+          {
+            "text": "Kas patinka Tavo vaikui?",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 4904
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "AP2-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas patiktųlabiausiai?",
+            "width": 224,
+            "height": 69
+          },
+          {
+            "text": "Kas patinka Tavo vaikui?",
+            "width": 272,
+            "height": 58
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 238,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 256,
+            "height": 29
+          }
+        ],
+        "height": 4904
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "AP2-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas patiktųlabiausiai?",
+            "width": 294,
+            "height": 69
+          },
+          {
+            "text": "Kas patinka Tavo vaikui?",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 5255
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "AP2-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas patiktųlabiausiai?",
+            "width": 294,
+            "height": 69
+          },
+          {
+            "text": "Kas patinka Tavo vaikui?",
+            "width": 342,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 308,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 326,
+            "height": 29
+          }
+        ],
+        "height": 5255
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "AP2-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas patiktųlabiausiai?",
+            "width": 334,
+            "height": 69
+          },
+          {
+            "text": "Kas patinka Tavo vaikui?",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 5512
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "AP2-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kas patiktųlabiausiai?",
+            "width": 334,
+            "height": 69
+          },
+          {
+            "text": "Kas patinka Tavo vaikui?",
+            "width": 382,
+            "height": 29
+          },
+          {
+            "text": "Magnetinė lenta Naira",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "LED piešimo lenta",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Pirma veiklos knyga",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Logikos žaidimas",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Kolonėlė SK10",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Šnekančios kortelės SK9",
+            "width": 348,
+            "height": 50
+          },
+          {
+            "text": "Gali parašyti man.",
+            "width": 366,
+            "height": 29
+          }
+        ],
+        "height": 5512
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "AP2-600.png": "34ebd0919b3446ca1f9197ba96af94d3d3d3b7aeb247dd710d195ba8d6a5e2ed",
+      "AP2-600-stripped.png": "34ebd0919b3446ca1f9197ba96af94d3d3d3b7aeb247dd710d195ba8d6a5e2ed",
+      "AP2-320.png": "616f77c12ac5ce7fc14ff94414906d20836d886a367111a56f42309645506c27",
+      "AP2-320-stripped.png": "616f77c12ac5ce7fc14ff94414906d20836d886a367111a56f42309645506c27",
+      "AP2-390.png": "f31a1d805c2c214b954d1998fa907bddecd2202af1dbeae670cc80fca4f898c0",
+      "AP2-390-stripped.png": "f31a1d805c2c214b954d1998fa907bddecd2202af1dbeae670cc80fca4f898c0",
+      "AP2-430.png": "4618805a30aa88494e892caee3be2bec8864d69749fae7c9a35c3fc76de1c012",
+      "AP2-430-stripped.png": "4618805a30aa88494e892caee3be2bec8864d69749fae7c9a35c3fc76de1c012"
+    }
+  },
+  {
+    "id": "PR1",
+    "hashes": {
+      "PR1-top.html": "1f0cc80a6a49a636ade70edaa399d14199c48bc8ada1418e858fdf3d1dcaf207",
+      "PR1-bottom.html": "e34d2e1af5d66863a65c2b5a1dd7274253c068174eff1e5b06c023eefa137e35"
+    },
+    "checks": [
+      {
+        "width": 600,
+        "stripped": false,
+        "screenshot": "PR1-600.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kokie Tavoįspūdžiai?",
+            "width": 504,
+            "height": 69
+          }
+        ],
+        "height": 959
+      },
+      {
+        "width": 600,
+        "stripped": true,
+        "screenshot": "PR1-600-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kokie Tavoįspūdžiai?",
+            "width": 504,
+            "height": 69
+          }
+        ],
+        "height": 959
+      },
+      {
+        "width": 320,
+        "stripped": false,
+        "screenshot": "PR1-320.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kokie Tavoįspūdžiai?",
+            "width": 224,
+            "height": 69
+          }
+        ],
+        "height": 1181
+      },
+      {
+        "width": 320,
+        "stripped": true,
+        "screenshot": "PR1-320-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kokie Tavoįspūdžiai?",
+            "width": 224,
+            "height": 69
+          }
+        ],
+        "height": 1181
+      },
+      {
+        "width": 390,
+        "stripped": false,
+        "screenshot": "PR1-390.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kokie Tavoįspūdžiai?",
+            "width": 294,
+            "height": 69
+          }
+        ],
+        "height": 1053
+      },
+      {
+        "width": 390,
+        "stripped": true,
+        "screenshot": "PR1-390-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kokie Tavoįspūdžiai?",
+            "width": 294,
+            "height": 69
+          }
+        ],
+        "height": 1053
+      },
+      {
+        "width": 430,
+        "stripped": false,
+        "screenshot": "PR1-430.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kokie Tavoįspūdžiai?",
+            "width": 334,
+            "height": 69
+          }
+        ],
+        "height": 1036
+      },
+      {
+        "width": 430,
+        "stripped": true,
+        "screenshot": "PR1-430-stripped.png",
+        "problems": [],
+        "headings": [
+          {
+            "text": "Kokie Tavoįspūdžiai?",
+            "width": 334,
+            "height": 69
+          }
+        ],
+        "height": 1036
+      }
+    ],
+    "visualReview": "Reviewed all eight fresh full-length layouts via side-by-side sheets: text widths, names, order, photo proportions, whitespace and CTA placement.",
+    "platformTest": "not performed",
+    "realEmailClientVerified": false,
+    "imageFetch": "Rendered published-image URLs using matching local assets. Remote availability not rechecked by this render.",
+    "screenshotsSha256": {
+      "PR1-600.png": "03343e9cf79e3234be45458fb6a5a67870d43ede30b2b692666c15f46576bbae",
+      "PR1-600-stripped.png": "03343e9cf79e3234be45458fb6a5a67870d43ede30b2b692666c15f46576bbae",
+      "PR1-320.png": "aa86302021878f5a7db69daac05c3521719e7c7398ae927dc443131f3b626bb7",
+      "PR1-320-stripped.png": "aa86302021878f5a7db69daac05c3521719e7c7398ae927dc443131f3b626bb7",
+      "PR1-390.png": "e1196b1954ac1ea9244ac26a60f8a381340e44e3315dd65cbc6c13c277c28201",
+      "PR1-390-stripped.png": "e1196b1954ac1ea9244ac26a60f8a381340e44e3315dd65cbc6c13c277c28201",
+      "PR1-430.png": "91e46c75b0acd0201ce1676a2efeb8baa69550b31b69eece92ca4f7759073bfb",
+      "PR1-430-stripped.png": "91e46c75b0acd0201ce1676a2efeb8baa69550b31b69eece92ca4f7759073bfb"
+    }
+  }
+]
