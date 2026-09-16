@@ -4,79 +4,77 @@ Ką veiksime po darželio?
 PREHEADER
 Trys idėjos vakarui: pasiklausyti, padėlioti ir piešti.
 
-IDĖJOS VAKARUI NAMUOSE
 Ką veiksime po darželio?
 Pasiklausyti. Padėlioti. Piešti.
-
 Išsirinkti veiklą vakarui
 https://www.skilsas.lt/lavinamosios-priemones
 
 Labas!
 
-Šįkart siūlau tris idėjas laikui kartu.
-Pradėk nuo tos, kuri šiandien labiausiai sudomina.
+Šįkart siūlau tris paprastas idėjas laikui kartu: pasiklausyti, padėlioti arba piešti.
 
-01 Pasiklausyti
+Pradėkite nuo to, kas šiandien labiausiai sudomina. Gal užteks vienos pasakos, vieno puslapio ar bendro piešinio.
+
+01 PASIKLAUSYTI
 
 Garso kolonėlė SK10
-30 lietuviškų dainų ir 30 pasakų.
-Išsirinkite vieną ir paklausykite kartu.
+30 lietuviškų dainų ir 30 pasakų vienoje kolonėlėje.
+Išsirinkite vieną istoriją ir pasiklausykite kartu.
 49 €
-Apžiūrėti
-https://www.skilsas.lt/yes-for-skills-garso-kolonele-vaikams-su-irasytomis-lietuviskomis-dainomis-ir-pasakomis
+Apžiūrėti: https://www.skilsas.lt/yes-for-skills-garso-kolonele-vaikams-su-irasytomis-lietuviskomis-dainomis-ir-pasakomis
 
 Šnekančios kortelės SK9
-Įstatyk kortelę, išgirsk žodį ir pakartok.
+Įstatyk kortelę, išgirsk lietuvišką žodį ir pakartok.
+O tada pasižvalgykite: gal tą patį daiktą rasite ir namuose?
 24 €
-Apžiūrėti
-https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-korteles-snekancios-korteles
+Apžiūrėti: https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-korteles-snekancios-korteles
 
-02 Padėlioti
+02 PADĖLIOTI
 
 Pirma veiklos knyga
-Surask vietą lipdukui.
+Daugkartinio naudojimo lipdukai kviečia dėlioti ir bandyti iš naujo.
+Atsiverskite vieną puslapį ir kartu suraskite vietą lipdukui.
 30 €
-Apžiūrėti
-https://www.skilsas.lt/mano-pirma-lavinamoji-veiklos-knyga-su-daugkartinio-naudojimo-lipdukais
+Apžiūrėti: https://www.skilsas.lt/mano-pirma-lavinamoji-veiklos-knyga-su-daugkartinio-naudojimo-lipdukais
 
 Logikos žaidimas
-Atrask užduoties atsakymą.
+Išklausyk įgarsintą užduotį ir ieškok atsakymo tarp paveikslėlių.
+Neskubėkite: aptarkite, kodėl norisi pasirinkti būtent jį.
 39,20 €
-Apžiūrėti
-https://www.skilsas.lt/interaktyvus-logikos-lavinimo-zaidimas-skilsas-su-uzduociu-kortelemis
+Apžiūrėti: https://www.skilsas.lt/interaktyvus-logikos-lavinimo-zaidimas-skilsas-su-uzduociu-kortelemis
 
-03 Piešti
+03 PIEŠTI
 
 LED piešimo lenta
-Nupiešk lapą ir pridėk jam spalvų.
+Vieta mažiems piešiniams ir didelėms istorijoms.
+Nupieškite lapą, pridėkite spalvų, o tada paeiliui papildykite piešinį.
 35 €
-Apžiūrėti
-https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas
+Apžiūrėti: https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas
 
 SUSIPAŽINKIME ARTIMIAU
 Viskas prasidėjo nuo kortelių.
 
-Pirmųjų kortelių idėja gimė dar prieš gimstant mūsų sūnui Žakui. Norėjome, kad pažinti pasaulį būtų smagu ir vaikams, ir tėvams. Iš šios minties užaugo SKILSAS.
+Pirmųjų kortelių idėja gimė dar prieš gimstant mūsų sūnui Žakui. Norėjome, kad pažinti pasaulį būtų smagu ir vaikams, ir tėvams.
+
+Iš pradžių korteles kūrėme savo sūnui. Vėliau ši mintis išaugo į SKILSAS ir kitas priemones mažiems kasdieniams atradimams.
 
 Lietuviškai
 Dainos, pasakos ir žodžiai gimtąja kalba.
 
 Žaidžiant
-Pažinimas prasideda nuo smalsumo ir veiklos.
+Pažinimas prasideda nuo smalsumo, paveikslėlio ar mažos užduoties.
 
 Savu tempu
-Leidžiame bandyti, klysti ir atrasti iš naujo.
+Paliekame vietos bandyti, suklysti ir atrasti iš naujo.
 
-Daugiau apie mus
-https://www.skilsas.lt/apie-mus
+Daugiau apie mus: https://www.skilsas.lt/apie-mus
 
 Nuo ko pradėsite šįvakar?
-Išsirinkti veiklą vakarui
-https://www.skilsas.lt/lavinamosios-priemones
+Išsirinkti veiklą vakarui: https://www.skilsas.lt/lavinamosios-priemones
 
 Su meile, Ingrida
-skilsas.lt
-
+https://www.skilsas.lt/
+labas@skilsas.lt
 
 MB SKILSAS
 [[account.address]], [[account.city]], [[account.zipCode]], [[account.country]]
