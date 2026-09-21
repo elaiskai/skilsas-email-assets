@@ -75,9 +75,13 @@ Publikuojama tik ši rugsėjo 22 d. kampanija. Kiti saugyklos laiškai ir neįtr
 
 ## Patikra ir siuntimas
 
-Kampanijoje 8 produktai. Jų puslapiai, kainos ir InStock būsena patikrinti 2026-09-21. Visi 8 produktai turi atskiras nuorodas HTML ir teksto versijose. Iš viso 9 nuotraukos, visos su alt tekstais ir matmenimis. HTML apie 29 KB, be JavaScript, formų ar base64.
+Kampanijoje 8 produktai. Jų puslapiai, kainos ir InStock būsena patikrinti 2026-09-21. Visi 8 produktai turi atskiras nuorodas HTML ir teksto versijose. Iš viso 9 nuotraukos, visos su alt tekstais ir matmenimis. HTML apie 30 KB, be JavaScript, formų ar base64.
 
-600, 390 ir 320 px pločių maketai patikrinti naršyklėje; nėra horizontalaus slinkimo. Po vizualinės peržiūros sutrumpinti pagrindinio CTA ir papildomų SK1 kortelių mygtukai, o planšetės nuotrauka pakeista oficialia nuotrauka be baltų kraštų. Papildomos kortelės aiškiai pažymėtos kaip skirtos tik SK1 planšetei, parduodamai atskirai.
+600, 390 ir 320 px pločių maketai patikrinti naršyklėje ir vizualiai peržiūrėti. Papildomai tie patys trys pločiai patikrinti pašalinus visus style blokus – iš viso 6 variantai. Visos 9 nuotraukos įsikrauna, nėra horizontalaus slinkimo ar elementų išlindimo už lango.
+
+Atkurta ankstesnė mobilioji problema: pašalinus style bloką, 200 px pločio nuotraukos stulpelis neišsiplėsdavo į atskirą eilutę; 390 px ekrane produkto aprašui likdavo 56 px. Naujoje konstrukcijoje 92 px nuotrauka ir produkto pavadinimas yra pirmoje eilutėje, aprašas – atskirai per visą kortelės plotį, o kaina ir CTA – apačioje. Ši struktūra priklauso nuo inline stilių ir lentelių, o ne nuo media query persirikiavimo. Aprašai sutrumpinti, tekstas išlaikytas 16 px / 24 px. 390 px ekrane aprašai turi 314 px plotį ir 2–3 eilutes, 320 px ekrane – 244 px ir 3–4 eilutes. Su pašalintais style blokais aprašai taip pat išlieka platūs ir skaitomi.
+
+390 px mobiliosios peržiūros visas aukštis sumažėjo nuo 6240 iki 4583 px. Produktų skaičius (8), kainos, nuotraukos ir produktų nuorodos išliko tie patys. Papildomų SK1 kortelių nuotraukų plotis taip pat nustatytas inline, kad bloko išdėstymas nepriklausytų nuo media query. Aprašai sinchronizuoti su newsletter.txt. Tai naršyklėje atliktas el. pašto stilių pašalinimo modeliavimas, o ne realus Omnisend / Gmail / Outlook pristatymo testas.
 
 Hero yra atskirame užapvalintame rėmelyje su #BCDCCB kontūru. Fotografinės spalvos natūraliai varijuoja, todėl jis nejungiamas kaip vientisas rastras su HTML fonu. Tamsus CTA ir poraštė turi tą patį #104C3E foną.
 
