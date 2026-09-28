@@ -42,3 +42,5 @@ Galutiniai JPG: preview-desktop.jpg (600 × 4473), preview-mobile.jpg (390 × 46
 newsletter.html – galutinis laiškas su viešais HTTPS vaizdų adresais; preview.html – tokia pati vietinė peržiūra; newsletter.txt – tekstinė versija; subject-lines.md – 5 temos ir preheaderio poros; campaign-copy.json ir build_campaign.py leidžia atkurti laišką. Kampanija publikuojama esamoje atskiroje GitHub šakoje, peržiūros užklausa https://github.com/elaiskai/skilsas-email-assets/pull/1 . Main nekeičiamas.
 
 Siuntimas 09.29 yra kampanijos plano data; joks automatinis siuntimas neįjungtas. Prieš siunčiant reikia patikrinti prenumeratos nuorodų žymas pasirinktoje platformoje ir bandomąjį pristatymą. Laiškas į Omnisend neįkeltas.
+
+Galutinio laiško vaizdų ir šriftų URL pririšti prie kampanijos commit 19a1500d2e2392f753aa012ba908d6ce61e46754. Jie veikia nepriklausomai nuo būsimo šakos pervadinimo ar sujungimo.

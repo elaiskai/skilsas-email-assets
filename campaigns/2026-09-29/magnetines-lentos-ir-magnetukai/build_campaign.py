@@ -6,7 +6,7 @@ PRODUCTS=json.loads((ROOT/'campaign-copy.json').read_text())
 FONT='Montserrat,Arial,sans-serif'
 GREEN,MINT,INK='#188348','#E5FCEF','#104C3E'
 UTM='?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai'
-PUBLIC='https://raw.githubusercontent.com/elaiskai/skilsas-email-assets/codex/skilsas-creative-play-20260928/campaigns/2026-09-29/magnetines-lentos-ir-magnetukai/'
+PUBLIC='https://raw.githubusercontent.com/elaiskai/skilsas-email-assets/19a1500d2e2392f753aa012ba908d6ce61e46754/campaigns/2026-09-29/magnetines-lentos-ir-magnetukai/'
 CATEGORY='https://www.skilsas.lt/lavinamosios-priemones/magnetines-lentos-ir-magnetai-yes-for-skills'
 SUBJECT='Mažas kampelis. Daug istorijų. 🧲'
 PREHEADER='Magnetinės lentos, magnetukai ir 3 idėjos žaidimų kampeliui namuose.'
