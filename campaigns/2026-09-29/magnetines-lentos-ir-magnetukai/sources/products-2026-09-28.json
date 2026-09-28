@@ -1,0 +1,141 @@
+{
+  "arka": {
+    "name": "SKILSAS priklijuojama magnetinė lenta „Arka“, žalsvai melsva, 95 × 76 cm",
+    "offers": {
+      "price": 45,
+      "priceCurrency": "EUR",
+      "url": "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm",
+      "availability": "https://schema.org/InStock"
+    },
+    "image": "https://www.skilsas.lt/images/uploader/sk/skilsas-priklijuojama-magnetine-lenta-arka-juoda-95-76-cm-kopija-1.png",
+    "facts": [
+      "Žalsvai melsva",
+      "95 × 76 cm",
+      "Arkos formos",
+      "Priklijuojama prie sienos",
+      "Tinka piešimui ir lengviems magnetukams",
+      "Gali būti nuimama ir perklijuojama"
+    ],
+    "compatibility": "Lenta skirta lengviems magnetukams; magnetukai į komplektaciją neįeina.",
+    "verified_at": "2026-09-28"
+  },
+  "naira": {
+    "name": "YES FOR SKILLS priklijuojama magnetinė lenta prie sienos \"Naira\", 55x80cm",
+    "offers": {
+      "price": 45,
+      "priceCurrency": "EUR",
+      "url": "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis",
+      "availability": "https://schema.org/InStock"
+    },
+    "image": "https://www.skilsas.lt/images/uploader/ye/yes-for-skills-priklijuojama-magnetine-lenta-prie-sienos-naira-55x80cm-1.png",
+    "facts": [
+      "Juoda",
+      "55 × 80 cm",
+      "Namelio siluetas su stogu ir kaminu",
+      "Priklijuojama prie lygaus ir švaraus paviršiaus",
+      "Magnetukai į komplektaciją neįeina"
+    ],
+    "compatibility": "Magnetukai į komplektaciją neįeina. Produkto aprašymas nurodo tinkamumą visų tipų magnetukams.",
+    "verified_at": "2026-09-28"
+  },
+  "aprenk": {
+    "name": "Lavinamieji magnetukai SKILSAS \"Aprenk mergaitę ir berniuką\"",
+    "offers": {
+      "price": 29,
+      "priceCurrency": "EUR",
+      "url": "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka",
+      "availability": "https://schema.org/InStock"
+    },
+    "image": "https://www.skilsas.lt/images/uploader/la/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka-1.png",
+    "facts": [
+      "3 mergaitės ir 3 berniukai",
+      "32 skirtingi drabužiai ir aksesuarai",
+      "Tvirtinami prie magnetinės lentos ar šaldytuvo"
+    ],
+    "compatibility": "Magnetinė lenta arba šaldytuvas.",
+    "verified_at": "2026-09-28"
+  },
+  "sudek": {
+    "name": "Yes For Skills lavinamieji magnetukai \"Sudėk gyvūną\"",
+    "offers": {
+      "price": 25,
+      "priceCurrency": "EUR",
+      "url": "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna",
+      "availability": "https://schema.org/InStock"
+    },
+    "image": "https://www.skilsas.lt/images/uploader/ye/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna-7.jpg",
+    "facts": [
+      "Gyvūnai sudedami iš atskirų kūno dalių",
+      "Galima jungti susijusias dalis arba kurti savo gyvūnus"
+    ],
+    "compatibility": "Magnetukų rinkinys; magnetinės lentos perkamos atskirai.",
+    "verified_at": "2026-09-28"
+  },
+  "ukis": {
+    "name": "Yes For Skills lavinamieji magnetukai vaikams \"Ūkis\"",
+    "offers": {
+      "price": 25,
+      "priceCurrency": "EUR",
+      "url": "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis",
+      "availability": "https://schema.org/InStock"
+    },
+    "image": "https://www.skilsas.lt/images/uploader/ye/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis-2-1.jpg",
+    "facts": [
+      "Ūkio tematika",
+      "Žirgų, asilų, viščiukų ir kitų ūkio veikėjų istorijoms",
+      "Daržo ir tvartelio tematika"
+    ],
+    "compatibility": "Magnetukų rinkinys; magnetinės lentos perkamos atskirai.",
+    "verified_at": "2026-09-28"
+  },
+  "miskas": {
+    "name": "Yes For Skills lavinamieji magnetukai vaikams \"Miškas\"",
+    "offers": {
+      "price": 25,
+      "priceCurrency": "EUR",
+      "url": "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas",
+      "availability": "https://schema.org/InStock"
+    },
+    "image": "https://www.skilsas.lt/images/uploader/ye/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas-2-1.jpg",
+    "facts": [
+      "Miško gyvūnai ir gamtos detalės",
+      "Oficialioje nuotraukoje matomi medžiai, palapinė, laužas, stirna, meška ir kiti veikėjai"
+    ],
+    "compatibility": "Magnetukų rinkinys; magnetinės lentos perkamos atskirai.",
+    "verified_at": "2026-09-28"
+  },
+  "vandenynas": {
+    "name": "Yes For Skills lavinamieji magnetukai vaikams \"Vandenynas\"",
+    "offers": {
+      "price": 25,
+      "priceCurrency": "EUR",
+      "url": "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas",
+      "availability": "https://schema.org/InStock"
+    },
+    "image": "https://www.skilsas.lt/images/uploader/ye/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas-3-1.png",
+    "facts": [
+      "Vaikai, banginis, ruonis, ryklys, aštuonkojis, medūza, žuvys ir kiti veikėjai",
+      "Vandenyno tematika"
+    ],
+    "compatibility": "Magnetukų rinkinys; magnetinės lentos perkamos atskirai.",
+    "verified_at": "2026-09-28"
+  },
+  "spalvos": {
+    "name": "Yes For Skills lavinamieji magnetukai \"Spalvos\"",
+    "offers": {
+      "price": 29,
+      "priceCurrency": "EUR",
+      "url": "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos",
+      "availability": "https://schema.org/InStock"
+    },
+    "image": "https://www.skilsas.lt/images/uploader/ye/yes-for-skills-lavinamieji-magnetukai-spalvos-1.png",
+    "facts": [
+      "Daugkartinio naudojimo magnetukai",
+      "Spalvų rūšiavimui ir grupavimui",
+      "Tinka magnetinei lentai, šaldytuvui ir kitiems magnetiniams paviršiams",
+      "Sukurta Lietuvoje"
+    ],
+    "compatibility": "Magnetinė lenta, šaldytuvas ar kiti magnetiniai paviršiai.",
+    "verified_at": "2026-09-28"
+  }
+}
