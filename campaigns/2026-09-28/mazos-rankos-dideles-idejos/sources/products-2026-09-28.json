@@ -1,0 +1,146 @@
+{
+  "led-holder": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "productID": "883",
+    "name": "LED šviečianti piešimo lenta SKILSAS su markerių laikikliu",
+    "description": "Visos lentos dydis: 43 &times; 26 cm\nPiešiamo ploto dydis: 33 &times; 20 cm\n\n\t&nbsp;\n",
+    "sku": "4779053234088",
+    "image": "https://www.skilsas.lt/images/uploader/le/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu-1.png",
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "Offer",
+      "priceCurrency": "EUR",
+      "price": 39,
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu",
+      "priceValidUntil": "2026-10-28T13:07:23+02:00"
+    }
+  },
+  "led": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "productID": "884",
+    "name": "LED šviečianti piešimo lenta SKILSAS",
+    "description": "Visos lentos dydis: 35 &times; 26 cm\nPiešiamo ploto dydis: 35 &times; 23 cm\n",
+    "sku": "4779053234071",
+    "image": "https://www.skilsas.lt/images/uploader/le/led-sviecianti-piesimo-lenta-skilsas-1.png",
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "Offer",
+      "priceCurrency": "EUR",
+      "price": 35,
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas",
+      "priceValidUntil": "2026-10-28T13:07:23+02:00"
+    }
+  },
+  "draw": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "productID": "736",
+    "name": "Yes For Skills lietuviškai įgarsintos Šnekančios kortelės „Mokausi piešti“ su garsiniais kortelių apibūdinimais, kalbančios lietuviškai",
+    "description": "Ieškote išskirtinių, vaikams lavinti ir žaisti skirtų edukacinių priemonių ir įrankių? Galbūt vaikams skirtų prekių rinkoje pasigendate daugiau lietuvių kalba įgarsintų žaislų ir vaikų mokymuisi skirtų produktų? Lietuviškai įgarsintos Šnekančios kortelės ,,Mokausi piešti&ldquo; su garsiniais kortelių apibūdinimais &ndash; nustebins net išrankiausius vaikus ir jų tėvelius!\nŠio produkto komplektacijoje rasite kortelių skaitytuvą, kurio ekranas pritaikytas piešti specialiu rašikliu, rašiklį, 100 dvipusių Šnekančių kortelių su lietuvių kalbos abėcėlės raidėmis, skaičiais nuo 1 iki 10, transporto priemonių, gyvūnų, geometrinių figūrų pavadinimais ir iliustracijomis, netgi dainelėmis!\n\tĮ prietaiso korpuse esančią ertmę įstatę vieną iš Šnekančiųjų kortelių, vaikai išgirs, kaip teisingai ištarti kortelėje pavaizduotą raidę, skaičių arba pavaizduoto objekto pavadinimą! Įdėję kortelę ir paspaudę raudoną mygtuką išgirs trumpą kortelėje pavaizduoto objekto apibūdinimą arba įdomų faktą apie jį lietuvių kalba.\n\tKiekvienoje kortelėje galima pamatyti ne tik raidę, skaičių ar iliustraciją, bet ir aiškią instrukciją, kaip parašyti raidę ar žingsnis po žingsnio nupiešti pavaizduotą objektą. Jei jį nupiešti bus sudėtinga, specialiu rašikliu galima sekti objekto kontūrą kortelėje ir taip jį nukopijuoti.\nDžiaugiamės draugyste su Lietuvos kūrėjais. Vienoje komplekto kortelėje yra integruota ,,Debesėlių abėcėlė&rdquo; - puikus, linksmas muzikos kūrinys, skirtas mokytis lietuvių kalbos abėcėlės ir iš karto raides susieti su jau gerai pažįstamais objektais. Siekiant, kad Šnekančios kortelės būtų dar universalesnės, 7 ,,Mokausi piešti&rdquo; komplekto kortelės pavirto nuostabiomis lietuviškomis ,,Jausmučių&rdquo; dainelėmis. ,,Jausmučiai&rdquo; - tai išskirtinės internetinės teatralizuotos laidos ugdymui ir laisvalaikiui.\n\tŠnekančios kortelės ,,Mokausi piešti&rdquo; - naudingos, ugdant kalbėjimo įgūdžius, kalbos suvokimą, kūrybiškumą, vaizduotę, dėmesio koncentraciją, smulkiąją motoriką, akies-rankos koordinaciją, vaizdinę, garsinę atmintį. Vaikai sužinos daug įdomių faktų apie juos supančią aplinką. Tai universali ugdymo ir žaidimų priemonė, išskirtinė dovana, tinkanti tiek mažyliams, tiek vyresniems vaikams.\n\t&nbsp;\n\n",
+    "sku": "4779053233241",
+    "image": "https://www.skilsas.lt/images/uploader/ye/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-su-garsiniais-korteliu-apibudinimais-kalbancios-lietuvi-3.jpeg",
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "Offer",
+      "priceCurrency": "EUR",
+      "price": 36,
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai",
+      "priceValidUntil": "2026-10-28T13:07:23+02:00"
+    }
+  },
+  "dino": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "productID": "1118",
+    "name": "Tookyland spalvinimo knygelė su akvarele ir teptuku „Dinozaurai“ (LT206)",
+    "description": "\n\tTookyland spalvinimo knygelė su akvarele ir teptuku &bdquo;Dinozaurai&ldquo; (LT206)\nTookyland spalvinimo knygelė su akvarele ir teptuku &ndash; kūrybiškas ir linksmas rinkinys vaikams, leidžiantis tapyti akvarele tiesiai knygelėje naudojant tik vandenį ir pridedamą teptuką. Integruota spalvų paletė kiekviename puslapyje padeda vaikams lengvai aktyvuoti spalvas ir kurti ryškius piešinius be netvarkos.\n\n\tSavybės:\n\n\t\n\t\tSpalvinimo knygelė su akvareline spalvų juosta kiekviename puslapyje\n\t\n\t\t26 skirtingi dinozaurų piešiniai tapybai\n\t\n\t\tKomplekte pridedami akvareliniai teptukai\n\t\n\t\tTapyba tik su vandeniu &ndash; nereikia papildomų dažų\n\t\n\t\tRyškios, lengvai aktyvuojamos spalvos\n\t\n\t\tStori, kokybiški puslapiai &ndash; tinka vandens tapybai\n\n\n\tKaip naudoti?\nSudrėkinkite teptuką vandeniu, perbraukite per spalvų juostą virš piešinio ir spalvinkite pasirinktas zonas. Vanduo aktyvuoja spalvas, todėl dažai atsiranda ant piešinio be papildomų priemonių. Leiskite piešiniams išdžiūti prieš žiūrint kitą puslapį.\n\n\tLavina:\n\n\t\n\t\tSmulkiąją motoriką\n\t\n\t\tRankos&ndash;akies koordinaciją\n\t\n\t\tSpalvų pažinimą\n\t\n\t\tKūrybiškumą ir fantaziją\n\t\n\t\tDėmesio koncentraciją\n\n\n\tRinkinyje rasite:\n\n\t\n\t\tSpalvinimo knygelę su akvarelinėmis spalvomis\n\t\n\t\t2 teptukus\n\nGamintojas: Tookyland\nKodas: LT206\nRekomenduojamas amžius: nuo 5 metų\nPuikus pasirinkimas kūrybingam laisvalaikiui namuose, kelionėje ar kaip dovana mažiesiems dinozaurų mylėtojams!\n",
+    "sku": "LT206",
+    "image": "https://www.skilsas.lt/images/uploader/to/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206-2-1.jpg",
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "Offer",
+      "priceCurrency": "EUR",
+      "price": 9.03,
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206",
+      "priceValidUntil": "2026-10-28T13:07:23+02:00"
+    }
+  },
+  "crayons": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "productID": "1136",
+    "name": "Tookyland lengvai nuplaunamų šilkinių kreidelių rinkinys – 24 spalvos (LT138A)",
+    "description": "\n\tTookyland lengvai nuplaunamų šilkinių kreidelių rinkinys &ndash; 24 spalvos (LT138A)\nRyškios, švelnios ir lengvai naudojamos &ndash; Tookyland šilkinės kreidelės sukurtos tam, kad piešimas būtų malonus ir vaikams, ir tėvams. Minkšta, šilkinė tekstūra leidžia spalvoms lengvai slysti popieriumi, o sodrūs atspalviai padeda sukurti išraiškingus piešinius.\nKreidelės yra lengvai nuplaunamos, todėl spalvos paprastai nusivalo nuo odos ir daugumos paviršių. Puikus pasirinkimas mažiesiems kūrėjams!\n\n\tRinkinio savybės:\n\n\t\n\t\t24 ryškios ir sodrios spalvos\n\t\n\t\tŠvelni, &bdquo;šilkinė&ldquo; tekstūra &ndash; lengvas ir tolygus dengimas\n\t\n\t\tIšsukamas mechanizmas &ndash; nereikia drožti\n\t\n\t\tLengvai nuplaunamos nuo rankų ir daugelio paviršių\n\t\n\t\tTvirta ir patogi laikymo dėžutė\n\t\n\t\tTinka vaikams nuo 3 metų\n\n\n\tNauda vaikui:\n\n\t\n\t\tSkatina kūrybiškumą ir vaizduotę\n\t\n\t\tLavina smulkiąją motoriką\n\t\n\t\tMoko spalvų pažinimo ir derinimo\n\t\n\t\tPuikiai tinka tiek namams, tiek darželiui\n\nTookyland LT138A &ndash; tai kokybiškas, saugus ir praktiškas pasirinkimas mažiesiems menininkams, mėgstantiems spalvingą ir lengvą piešimą.\n",
+    "sku": "LT138A",
+    "image": "https://www.skilsas.lt/images/uploader/to/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a-3-1.jpg",
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "Offer",
+      "priceCurrency": "EUR",
+      "price": 13.93,
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a",
+      "priceValidUntil": "2026-10-28T13:07:23+02:00"
+    }
+  },
+  "roll": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "productID": "1133",
+    "name": "Tookyland didelis spalvinimo rulonas „Gyvūnų pasaulis“ (LT342)",
+    "description": "\n\tTookyland didelis spalvinimo rulonas &bdquo;Gyvūnų pasaulis&ldquo; (LT342)\nLeiskite vaikui pasinerti į spalvų ir gyvūnų pasaulį su Tookyland dideliu spalvinimo rulonu &bdquo;Gyvūnų pasaulis&ldquo;. Tai ilgas, išskleidžiamas spalvinimo lapas, kuriame gausu linksmų miško ir džiunglių gyventojų, augalų bei smagių detalių, kviečiančių kurti savąją istoriją.\nRuloną galima tiesti ant grindų, stalo ar net pritvirtinti prie sienos &ndash; puikus pasirinkimas tiek vienam vaikui, tiek kūrybiškai veiklai su draugais ar šeima. Didelis formatas suteikia daugiau laisvės judėti, spalvinti plačiais mostais ir mėgautis kūrybos procesu be ribų.\n\n\tRinkinyje rasite:\n\n\t\n\t\tDidelį spalvinimo ruloną su &bdquo;Gyvūnų pasaulio&ldquo; iliustracijomis\n\t\n\t\tTvirtą pakuotę patogiam laikymui\n\n\n\tKodėl verta rinktis?\n\n\t\n\t\tSkatina kūrybiškumą ir vaizduotę\n\t\n\t\tLavina smulkiąją motoriką ir dėmesio koncentraciją\n\t\n\t\tTinka spalvinti pieštukais, flomasteriais ar kreidelėmis\n\t\n\t\tPuiki veikla namuose, darželyje ar šventės metu\n\nRekomenduojamas amžius: nuo 3 metų\nGamintojas: Tookyland\nKodas: LT342\n",
+    "sku": "LT342",
+    "image": "https://www.skilsas.lt/images/uploader/to/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342-5-1.jpg",
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "Offer",
+      "priceCurrency": "EUR",
+      "price": 8.33,
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342",
+      "priceValidUntil": "2026-10-28T13:07:23+02:00"
+    }
+  },
+  "marble": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "productID": "1109",
+    "name": "Tookyland kūrybinis marmuravimo rinkinys – 12 spalvų (LT150)",
+    "description": "\n\tTookyland kūrybinis marmuravimo rinkinys &ndash; 12 spalvų (LT150)\nAtraskite spalvų magiją su Tookyland marmuravimo rinkiniu, kuris leidžia sukurti unikalius, įspūdingus raštus vandens paviršiuje. Tai kūrybiška ir įtraukianti veikla vaikams bei visai šeimai &ndash; kiekvienas darbas tampa vienetiniu meno kūriniu.\n\n\tKaip tai veikia?\nSpecialūs marmuravimo dažai lašinami ant paruošto vandens paviršiaus, kuriame ištirpintas tirštiklis (karageninas). Spalvos išsisklaido ir susilieja, o pagaliukų ar pipetės pagalba galima kurti įvairius ornamentus. Uždėjus popieriaus lapą ant vandens paviršiaus, raštas persikelia ant jo.\n\n\tRinkinyje rasite:\n\n\t\n\t\t12 marmuravimo dažų buteliukų (po 16 ml)\n\t\n\t\t2 karagenino miltelių buteliukus (po 10 g)\n\t\n\t\tPlastikinį dėklą vandeniui\n\t\n\t\t40 specialių lapų marmuravimui\n\t\n\t\t10 lankstomų (su lenkimo linija) lapų\n\t\n\t\t3 formavimo pagaliukus\n\t\n\t\t1 pipetę\n\t\n\t\t1 pincetą\n\n\n\tNauda vaikui:\n\n\t\n\t\tLavina kūrybiškumą ir vaizduotę\n\t\n\t\tStiprina smulkiąją motoriką\n\t\n\t\tSkatina spalvų pažinimą ir eksperimentavimą\n\t\n\t\tUgdo kantrybę ir susikaupimą\n\nRekomenduojamas amžius: nuo 6 metų\nPuiki dovanos idėja mažiesiems menininkams, kurie mėgsta eksperimentuoti ir kurti išskirtinius darbelius.\n",
+    "sku": "LT150",
+    "image": "https://www.skilsas.lt/images/uploader/to/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150-11-1.jpg",
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "Offer",
+      "priceCurrency": "EUR",
+      "price": 17.5,
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150",
+      "priceValidUntil": "2026-10-28T13:07:23+02:00"
+    }
+  },
+  "windows": {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "productID": "1140",
+    "name": "Tookyland kūrybinis langų piešimo rinkinys „Kosmoso pasaulis“ (LT123C)",
+    "description": "\n\tTookyland kūrybinis vitražinių langų spalvinimo rinkinys &bdquo;Kosmoso pasaulis&ldquo; (LT123C)\nLeiskite vaikui leistis į spalvingą kelionę po kosmosą su Tookyland vitražinių langų spalvinimo rinkiniu &bdquo;Kosmoso pasaulis&ldquo;. Šis kūrybinis rinkinys leidžia nuspalvinti planetas, raketas, astronautus ir kitus kosminius objektus, o vėliau juos pritvirtinti prie lango ar stiklo paviršiaus.\nNuspalvinti piešiniai tampa permatomomis vitražinėmis dekoracijomis, kurios gražiai praleidžia šviesą ir papuošia vaikų kambarį. Tai ne tik smagus kūrybinis užsiėmimas, bet ir puikus būdas lavinti vaizduotę bei smulkiąją motoriką.\n\n\tRinkinyje rasite:\n\n\t\n\t\t12 kosmoso tematikos vitražinių formelių (planetos, raketos, astronautai ir kt.)\n\t\n\t\t10 langų dažų (window paint) tūbelių\n\t\n\t\t12 siurbtukų dekoracijoms pritvirtinti prie stiklo\n\t\n\t\tPatogią dėžutę su rankenėle laikymui ir transportavimui\n\n\n\tKodėl verta rinktis?\n\n\t\n\t\tSpalvotos dekoracijos lengvai tvirtinamos prie langų ir kitų lygių stiklo paviršių\n\t\n\t\tSkatina kūrybiškumą ir domėjimąsi kosmoso tema\n\t\n\t\tLavina kruopštumą bei spalvų pažinimą\n\t\n\t\tPuiki dovanos idėja kūrybiškiems vaikams\n\nRekomenduojamas amžius: nuo 6 metų\nGamintojas: Tookyland\nKodas: LT123C\n",
+    "sku": "LT123C",
+    "image": "https://www.skilsas.lt/images/uploader/to/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c-7-1.jpg",
+    "offers": {
+      "@context": "https://schema.org",
+      "@type": "Offer",
+      "priceCurrency": "EUR",
+      "price": 14,
+      "availability": "https://schema.org/InStock",
+      "url": "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c",
+      "priceValidUntil": "2026-10-28T13:07:24+02:00"
+    }
+  }
+}
