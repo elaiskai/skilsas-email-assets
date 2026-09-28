@@ -53,8 +53,10 @@ Patikrinti 600, 390 ir 320 px pločiai su įprastais stiliais bei pašalinus vis
 - qa-results.json: patikros matavimai.
 - build_campaign.py: atkuriami HTML ir teksto failai.
 
-Saugyklos vieta: https://github.com/elaiskai/skilsas-email-assets/tree/main/campaigns/2026-09-28/mazos-rankos-dideles-idejos
+Saugyklos vieta: https://github.com/elaiskai/skilsas-email-assets/tree/codex/skilsas-creative-play-20260928/campaigns/2026-09-28/mazos-rankos-dideles-idejos
 
 Aplanko data yra parengimo data, ne patvirtinta siuntimo data. Laiškas neįkeltas į Omnisend, nesuplanuotas ir neišsiųstas. Prieš siunčiant reikia patikrinti platformos prenumeratos nuorodų žymas ir atlikti bandomąjį pristatymą. 2026-09-28 patvirtintos kainos nėra pažadas, kad jos nesikeis vėliau.
 
 GitHub publikuojami laiškui reikalingi suspausti assets, HTML, JPG peržiūros, šaltinių duomenys ir hero promptas. Dideli originalūs referenciniai vaizdai bei pradinis hero PNG išsaugoti vietiniame kampanijos sources aplanke.
+
+Vaizdų adresai newsletter.html pririšti prie kampanijos failų commit 555185a195bfeafd7ec59875550651f667c7c3c4, todėl jie veikia ir kol kampanija dar neįjungta į main. Vieši įmonės rekvizitai pakartotinai patikrinti https://www.skilsas.lt/kontaktai ir ankstesniame tos pačios viešos saugyklos laiške.

@@ -6,7 +6,7 @@ SOURCE = json.loads((ROOT / 'sources/products-2026-09-28.json').read_text())
 FONT = 'Montserrat,Arial,sans-serif'
 GREEN, MINT, INK = '#188348', '#E5FCEF', '#104C3E'
 UTM = '?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_mazos_rankos_dideles_idejos'
-PUBLIC = 'https://raw.githubusercontent.com/elaiskai/skilsas-email-assets/main/campaigns/2026-09-28/mazos-rankos-dideles-idejos/'
+PUBLIC = 'https://raw.githubusercontent.com/elaiskai/skilsas-email-assets/555185a195bfeafd7ec59875550651f667c7c3c4/campaigns/2026-09-28/mazos-rankos-dideles-idejos/'
 SUBJECT = 'Mažos rankos. Didelės idėjos. 🎨'
 PREHEADER = '8 idėjos kūrybos popietei: nuo šviečiančių piešinių iki spalvų ant vandens.'
 PRODUCTS = [
