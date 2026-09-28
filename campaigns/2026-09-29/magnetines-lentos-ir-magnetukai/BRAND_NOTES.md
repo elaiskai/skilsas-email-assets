@@ -3,11 +3,11 @@
 Tema: magnetinės lentos ir magnetukai, idėjos žaidimų kampeliui namuose. Parengta 2026-09-28 rugsėjo 29 d. kampanijai. Laiškas nesuplanuotas ir neišsiųstas.
 
 **Subject:** Mažas kampelis. Daug istorijų. 🧲
-**Preheader:** Magnetinės lentos, magnetukai ir 3 idėjos žaidimų kampeliui namuose.
+**Preheader:** Išsirinkite lentą, pridėkite magnetukų ir išbandykite naują žaidimą.
 
 ## Turinys ir produktai
 
-8 produktai: žalsvai melsva „Arka“ ir juoda namelio formos „Naira“ bei 6 magnetukų rinkiniai – „Miškas“, „Ūkis“, „Vandenynas“, „Aprenk mergaitę ir berniuką“, „Sudėk gyvūną“, „Spalvos“. Tai SKILSAS / Yes For Skills asortimentas. Trys žaidimų idėjos: sugrupuoti, kurti istoriją ir pastebėti pakeistas vietas.
+8 produktai: žalsvai melsva „Arka“ ir juoda namelio formos „Naira“ bei 6 magnetukų rinkiniai – „Miškas“, „Ūkis“, „Vandenynas“, „Aprenk mergaitę ir berniuką“, „Sudėk gyvūną“, „Spalvos“. Tai SKILSAS / Yes For Skills asortimentas. Aiškūs pasirinkimo žingsniai: „01 / LENTA“ ir „02 / MAGNETUKAI“. Tarp produktų grupių trys praktiniai blokai: kampelio receptas, trijų magnetukų istorijos iššūkis ir magnetukų keitimo idėja kitai dienai.
 
 Abiejų lentų magnetukai parduodami atskirai; tai aiškiai parašyta laiške. Arka aprašoma kaip skirta lengviems magnetukams, ne sunkiems aksesuarams. Nežadama, kad lenta tinka bet kokiam paviršiui ar nepažeidžia sienų. „Aprenk“ rinkinyje 6 veikėjai ir 32 drabužiai bei aksesuarai; 32 nepristatoma kaip bendras magnetukų skaičius. Nenurodomas išgalvotas bendras visų rinkinių amžius, nuolaida ar skuba.
 
@@ -33,9 +33,11 @@ Galutinis hero: assets/campaign/hero.jpg. Tikslus promptas: sources/hero-prompt.
 
 ## Mobilioji patikra
 
-600, 390 ir 320 px pločiai patikrinti su stiliais ir pašalinus visus style blokus – 6 variantai. Visuose įsikrauna 9 vaizdai su alt tekstais; nėra horizontalaus slinkimo ir pavadinimų išlindimo. Produktų aprašai atskiroje eilutėje, 16 px / 24 px: 390 px lange jie turi 314 px ir 2 eilutes; 320 px lange – 244 px ir 2–3 eilutes. Pagrindinei struktūrai nereikia media queries.
+600, 390 ir 320 px pločiai patikrinti su stiliais ir pašalinus visus style blokus – 6 variantai. Visuose įsikrauna 10 vaizdų su alt tekstais; nėra horizontalaus slinkimo ir pavadinimų išlindimo. Produktai 600 px lange išdėstyti po du, mažesniuose – po vieną. Stulpeliai persikelia į kitą eilutę ir be media queries; tuomet kortelės lieka 288 px pločio. Outlook numatytos sąlyginės lentelės.
 
-Galutiniai JPG: preview-desktop.jpg (600 × 4473), preview-mobile.jpg (390 × 4606), preview-mobile-320.jpg (320 × 4872). Matavimai qa-results.json; papildomos be style blokų peržiūros išsaugotos vietiniame aplanke. Patikra atlikta naršyklėje, ne realiu Gmail ar Outlook pristatymu.
+Visų 8 produktų nuotraukos padidintos nuo 92 iki 124 px. Pavadinimas, kaina ir mygtukas turi pastovią vietą; aprašai užima visą kortelės plotį, 16 px / 24 px. 390 px lange jų plotis 322 px, visi telpa į 2 eilutes; 320 px lange – 252 px ir 2–3 eilutės. Be style blokų plotis ne mažesnis kaip 244 px.
+
+Galutiniai JPG: 600 × 4294, 390 × 5232, 320 × 5584. Matavimai qa-results.json; papildomos be style blokų peržiūros išsaugotos vietiniame aplanke. Patikra atlikta naršyklėje, ne realiu Gmail ar Outlook pristatymu.
 
 ## Failai ir publikavimas
 

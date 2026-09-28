@@ -2,7 +2,7 @@
   {
     "width": 600,
     "scrollWidth": 600,
-    "height": 4473,
+    "height": 4294,
     "images": [
       {
         "src": "assets/brand/logo.png",
@@ -11,6 +11,11 @@
       },
       {
         "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
         "loaded": true,
         "alt": true
       },
@@ -52,45 +57,51 @@
     ],
     "descriptions": [
       {
-        "width": 524,
+        "width": 244,
+        "height": 72,
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
+      },
+      {
+        "width": 244,
+        "height": 72,
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
+      },
+      {
+        "width": 244,
         "height": 48,
-        "text": "Namelio formos lenta – vieta magnetukams ir mažoms istorijoms."
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
       },
       {
-        "width": 524,
-        "height": 24,
-        "text": "Miško gyvūnai ir gamtos detalės mažų nuotykių pasakojimams."
-      },
-      {
-        "width": 524,
-        "height": 24,
-        "text": "Ūkio gyvūnai ir daržo detalės naujoms kaimo istorijoms."
-      },
-      {
-        "width": 524,
-        "height": 24,
-        "text": "Banginis, aštuonkojis ir kiti veikėjai povandeninėms istorijoms."
-      },
-      {
-        "width": 524,
-        "height": 24,
-        "text": "Aprenkite 6 veikėjus: rinkinyje – 32 drabužiai ir aksesuarai."
-      },
-      {
-        "width": 524,
-        "height": 24,
-        "text": "Junkite kūno dalis arba sugalvokite dar nematytą gyvūną."
-      },
-      {
-        "width": 524,
+        "width": 244,
         "height": 48,
-        "text": "Rūšiuokite magnetukus ir ieškokite tos pačios spalvos daiktų namuose."
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
       }
     ],
     "overflow": [],
     "titleOverflow": [],
     "links": [
       "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
@@ -120,7 +131,7 @@
   {
     "width": 390,
     "scrollWidth": 390,
-    "height": 4606,
+    "height": 5232,
     "images": [
       {
         "src": "assets/brand/logo.png",
@@ -129,6 +140,11 @@
       },
       {
         "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
         "loaded": true,
         "alt": true
       },
@@ -170,45 +186,51 @@
     ],
     "descriptions": [
       {
-        "width": 314,
+        "width": 322,
         "height": 48,
-        "text": "Namelio formos lenta – vieta magnetukams ir mažoms istorijoms."
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
       },
       {
-        "width": 314,
+        "width": 322,
         "height": 48,
-        "text": "Miško gyvūnai ir gamtos detalės mažų nuotykių pasakojimams."
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
       },
       {
-        "width": 314,
+        "width": 322,
         "height": 48,
-        "text": "Ūkio gyvūnai ir daržo detalės naujoms kaimo istorijoms."
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
       },
       {
-        "width": 314,
+        "width": 322,
         "height": 48,
-        "text": "Banginis, aštuonkojis ir kiti veikėjai povandeninėms istorijoms."
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
       },
       {
-        "width": 314,
+        "width": 322,
         "height": 48,
-        "text": "Aprenkite 6 veikėjus: rinkinyje – 32 drabužiai ir aksesuarai."
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
       },
       {
-        "width": 314,
+        "width": 322,
         "height": 48,
-        "text": "Junkite kūno dalis arba sugalvokite dar nematytą gyvūną."
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
       },
       {
-        "width": 314,
+        "width": 322,
         "height": 48,
-        "text": "Rūšiuokite magnetukus ir ieškokite tos pačios spalvos daiktų namuose."
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
       }
     ],
     "overflow": [],
     "titleOverflow": [],
     "links": [
       "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
@@ -238,7 +260,7 @@
   {
     "width": 320,
     "scrollWidth": 320,
-    "height": 4872,
+    "height": 5584,
     "images": [
       {
         "src": "assets/brand/logo.png",
@@ -247,6 +269,11 @@
       },
       {
         "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
         "loaded": true,
         "alt": true
       },
@@ -288,45 +315,51 @@
     ],
     "descriptions": [
       {
-        "width": 244,
+        "width": 252,
         "height": 72,
-        "text": "Namelio formos lenta – vieta magnetukams ir mažoms istorijoms."
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
       },
       {
-        "width": 244,
+        "width": 252,
         "height": 72,
-        "text": "Miško gyvūnai ir gamtos detalės mažų nuotykių pasakojimams."
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
       },
       {
-        "width": 244,
+        "width": 252,
         "height": 48,
-        "text": "Ūkio gyvūnai ir daržo detalės naujoms kaimo istorijoms."
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
       },
       {
-        "width": 244,
-        "height": 72,
-        "text": "Banginis, aštuonkojis ir kiti veikėjai povandeninėms istorijoms."
-      },
-      {
-        "width": 244,
+        "width": 252,
         "height": 48,
-        "text": "Aprenkite 6 veikėjus: rinkinyje – 32 drabužiai ir aksesuarai."
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
       },
       {
-        "width": 244,
-        "height": 72,
-        "text": "Junkite kūno dalis arba sugalvokite dar nematytą gyvūną."
+        "width": 252,
+        "height": 48,
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
       },
       {
-        "width": 244,
-        "height": 72,
-        "text": "Rūšiuokite magnetukus ir ieškokite tos pačios spalvos daiktų namuose."
+        "width": 252,
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
       }
     ],
     "overflow": [],
     "titleOverflow": [],
     "links": [
       "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
@@ -356,7 +389,7 @@
   {
     "width": 600,
     "scrollWidth": 600,
-    "height": 4327,
+    "height": 4246,
     "images": [
       {
         "src": "assets/brand/logo.png",
@@ -365,6 +398,11 @@
       },
       {
         "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
         "loaded": true,
         "alt": true
       },
@@ -406,45 +444,51 @@
     ],
     "descriptions": [
       {
-        "width": 524,
-        "height": 24,
-        "text": "Namelio formos lenta – vieta magnetukams ir mažoms istorijoms."
+        "width": 244,
+        "height": 72,
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
       },
       {
-        "width": 524,
-        "height": 24,
-        "text": "Miško gyvūnai ir gamtos detalės mažų nuotykių pasakojimams."
+        "width": 244,
+        "height": 48,
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
       },
       {
-        "width": 524,
-        "height": 24,
-        "text": "Ūkio gyvūnai ir daržo detalės naujoms kaimo istorijoms."
+        "width": 244,
+        "height": 48,
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
       },
       {
-        "width": 524,
-        "height": 24,
-        "text": "Banginis, aštuonkojis ir kiti veikėjai povandeninėms istorijoms."
+        "width": 244,
+        "height": 48,
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
       },
       {
-        "width": 524,
-        "height": 24,
-        "text": "Aprenkite 6 veikėjus: rinkinyje – 32 drabužiai ir aksesuarai."
+        "width": 244,
+        "height": 48,
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
       },
       {
-        "width": 524,
-        "height": 24,
-        "text": "Junkite kūno dalis arba sugalvokite dar nematytą gyvūną."
+        "width": 244,
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
       },
       {
-        "width": 524,
-        "height": 24,
-        "text": "Rūšiuokite magnetukus ir ieškokite tos pačios spalvos daiktų namuose."
+        "width": 244,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
       }
     ],
     "overflow": [],
     "titleOverflow": [],
     "links": [
       "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
@@ -474,7 +518,7 @@
   {
     "width": 390,
     "scrollWidth": 390,
-    "height": 4473,
+    "height": 5588,
     "images": [
       {
         "src": "assets/brand/logo.png",
@@ -483,6 +527,11 @@
       },
       {
         "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
         "loaded": true,
         "alt": true
       },
@@ -524,45 +573,51 @@
     ],
     "descriptions": [
       {
-        "width": 314,
-        "height": 48,
-        "text": "Namelio formos lenta – vieta magnetukams ir mažoms istorijoms."
+        "width": 244,
+        "height": 72,
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
       },
       {
-        "width": 314,
+        "width": 244,
         "height": 48,
-        "text": "Miško gyvūnai ir gamtos detalės mažų nuotykių pasakojimams."
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
       },
       {
-        "width": 314,
+        "width": 244,
         "height": 48,
-        "text": "Ūkio gyvūnai ir daržo detalės naujoms kaimo istorijoms."
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
       },
       {
-        "width": 314,
+        "width": 244,
         "height": 48,
-        "text": "Banginis, aštuonkojis ir kiti veikėjai povandeninėms istorijoms."
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
       },
       {
-        "width": 314,
+        "width": 244,
         "height": 48,
-        "text": "Aprenkite 6 veikėjus: rinkinyje – 32 drabužiai ir aksesuarai."
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
       },
       {
-        "width": 314,
+        "width": 244,
         "height": 48,
-        "text": "Junkite kūno dalis arba sugalvokite dar nematytą gyvūną."
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
       },
       {
-        "width": 314,
+        "width": 244,
         "height": 48,
-        "text": "Rūšiuokite magnetukus ir ieškokite tos pačios spalvos daiktų namuose."
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
       }
     ],
     "overflow": [],
     "titleOverflow": [],
     "links": [
       "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
@@ -592,7 +647,7 @@
   {
     "width": 320,
     "scrollWidth": 320,
-    "height": 4749,
+    "height": 5785,
     "images": [
       {
         "src": "assets/brand/logo.png",
@@ -601,6 +656,11 @@
       },
       {
         "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
         "loaded": true,
         "alt": true
       },
@@ -644,43 +704,49 @@
       {
         "width": 244,
         "height": 72,
-        "text": "Namelio formos lenta – vieta magnetukams ir mažoms istorijoms."
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
       },
       {
         "width": 244,
         "height": 48,
-        "text": "Miško gyvūnai ir gamtos detalės mažų nuotykių pasakojimams."
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
       },
       {
         "width": 244,
         "height": 48,
-        "text": "Ūkio gyvūnai ir daržo detalės naujoms kaimo istorijoms."
-      },
-      {
-        "width": 244,
-        "height": 72,
-        "text": "Banginis, aštuonkojis ir kiti veikėjai povandeninėms istorijoms."
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
       },
       {
         "width": 244,
         "height": 48,
-        "text": "Aprenkite 6 veikėjus: rinkinyje – 32 drabužiai ir aksesuarai."
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
       },
       {
         "width": 244,
         "height": 48,
-        "text": "Junkite kūno dalis arba sugalvokite dar nematytą gyvūną."
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
       },
       {
         "width": 244,
-        "height": 72,
-        "text": "Rūšiuokite magnetukus ir ieškokite tos pačios spalvos daiktų namuose."
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
       }
     ],
     "overflow": [],
     "titleOverflow": [],
     "links": [
       "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
       "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
