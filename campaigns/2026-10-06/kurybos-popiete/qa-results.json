@@ -1,0 +1,710 @@
+[
+  {
+    "width": 600,
+    "scrollWidth": 600,
+    "height": 4437,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/led.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/draw.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/crayons.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/roll.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/dino.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/marble.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/windows.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 244,
+        "height": 48,
+        "text": "35 × 26 cm lenta, ant kurios piešiniai nušvinta spalvomis."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "100 dvipusių kortelių su piešimo žingsniais ir garsais."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Išsukamos, ryškios ir lengvai nuplaunamos kreidelės."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Spalvinimo rulonas kūrybai vienam arba kartu."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "26 piešiniai, integruota paletė ir 2 teptukai."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Raštai kuriami ant vandens ir perkeliami ant popieriaus."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "12 vitražinių formelių, 10 dažų ir 12 siurbtukų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/lavinamosios-priemones/spalvinimui-ir-kurybai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": false
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 5151,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/led.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/draw.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/crayons.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/roll.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/dino.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/marble.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/windows.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 322,
+        "height": 48,
+        "text": "35 × 26 cm lenta, ant kurios piešiniai nušvinta spalvomis."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "100 dvipusių kortelių su piešimo žingsniais ir garsais."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "Išsukamos, ryškios ir lengvai nuplaunamos kreidelės."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "Spalvinimo rulonas kūrybai vienam arba kartu."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "26 piešiniai, integruota paletė ir 2 teptukai."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "Raštai kuriami ant vandens ir perkeliami ant popieriaus."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "12 vitražinių formelių, 10 dažų ir 12 siurbtukų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/lavinamosios-priemones/spalvinimui-ir-kurybai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": false
+  },
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 5501,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/led.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/draw.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/crayons.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/roll.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/dino.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/marble.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/windows.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 252,
+        "height": 48,
+        "text": "35 × 26 cm lenta, ant kurios piešiniai nušvinta spalvomis."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "100 dvipusių kortelių su piešimo žingsniais ir garsais."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Išsukamos, ryškios ir lengvai nuplaunamos kreidelės."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Spalvinimo rulonas kūrybai vienam arba kartu."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "26 piešiniai, integruota paletė ir 2 teptukai."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Raštai kuriami ant vandens ir perkeliami ant popieriaus."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "12 vitražinių formelių, 10 dažų ir 12 siurbtukų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/lavinamosios-priemones/spalvinimui-ir-kurybai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": false
+  },
+  {
+    "width": 600,
+    "scrollWidth": 600,
+    "height": 4413,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/led.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/draw.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/crayons.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/roll.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/dino.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/marble.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/windows.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 244,
+        "height": 48,
+        "text": "35 × 26 cm lenta, ant kurios piešiniai nušvinta spalvomis."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "100 dvipusių kortelių su piešimo žingsniais ir garsais."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Išsukamos, ryškios ir lengvai nuplaunamos kreidelės."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Spalvinimo rulonas kūrybai vienam arba kartu."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "26 piešiniai, integruota paletė ir 2 teptukai."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Raštai kuriami ant vandens ir perkeliami ant popieriaus."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "12 vitražinių formelių, 10 dažų ir 12 siurbtukų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/lavinamosios-priemones/spalvinimui-ir-kurybai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": true
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 5467,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/led.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/draw.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/crayons.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/roll.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/dino.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/marble.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/windows.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 244,
+        "height": 48,
+        "text": "35 × 26 cm lenta, ant kurios piešiniai nušvinta spalvomis."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "100 dvipusių kortelių su piešimo žingsniais ir garsais."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Išsukamos, ryškios ir lengvai nuplaunamos kreidelės."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Spalvinimo rulonas kūrybai vienam arba kartu."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "26 piešiniai, integruota paletė ir 2 teptukai."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Raštai kuriami ant vandens ir perkeliami ant popieriaus."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "12 vitražinių formelių, 10 dažų ir 12 siurbtukų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/lavinamosios-priemones/spalvinimui-ir-kurybai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": true
+  },
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 5765,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/led.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/draw.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/crayons.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/roll.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/dino.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/marble.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/windows.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 244,
+        "height": 48,
+        "text": "35 × 26 cm lenta, ant kurios piešiniai nušvinta spalvomis."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "100 dvipusių kortelių su piešimo žingsniais ir garsais."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Išsukamos, ryškios ir lengvai nuplaunamos kreidelės."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Spalvinimo rulonas kūrybai vienam arba kartu."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "26 piešiniai, integruota paletė ir 2 teptukai."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Raštai kuriami ant vandens ir perkeliami ant popieriaus."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "12 vitražinių formelių, 10 dažų ir 12 siurbtukų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas-su-markeriu-laikikliu?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/led-sviecianti-piesimo-lenta-skilsas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/yes-for-skills-lietuviskai-igarsintos-snekancios-korteles-mokausi-piesti-kalbancios-lietuviskai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-lengvai-nuplaunamu-silkiniu-kreideliu-rinkinys-24-spalvos-lt138a?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-didelis-spalvinimo-rulonas-gyvunu-pasaulis-lt342?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-spalvinimo-knygele-su-akvarele-ir-teptuku-dinozaurai-lt206?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-marmuravimo-rinkinys-12-spalvu-lt150?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/tookyland-kurybinis-langu-piesimo-rinkinys-kosmoso-pasaulis-lt123c?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/lavinamosios-priemones/spalvinimui-ir-kurybai?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": true
+  }
+]
