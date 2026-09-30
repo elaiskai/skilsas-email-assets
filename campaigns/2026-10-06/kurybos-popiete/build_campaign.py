@@ -8,6 +8,7 @@ GREEN, MINT, INK = '#188348', '#E5FCEF', '#104C3E'
 CREAM, RUST = '#FFF5E7', '#C75C36'
 UTM = '?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20261006_kurybos_popiete'
 CATEGORY = 'https://www.skilsas.lt/lavinamosios-priemones/spalvinimui-ir-kurybai'
+PUBLIC = 'https://raw.githubusercontent.com/elaiskai/skilsas-email-assets/505f12dee10d10b12289b3254c3c8a660cbd82c2/campaigns/2026-10-06/kurybos-popiete/'
 SUBJECT = 'Kai lauke lyja, namuose kuriam 🎨'
 PREHEADER = '8 kūrybos idėjos rudens popietei: piešti, spalvinti ir eksperimentuoti.'
 
@@ -127,7 +128,7 @@ doc += f'<div style="display:none;font-size:1px;line-height:1px;max-height:0;max
 doc += table(row('<!--[if mso]><table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->' + content + '<!--[if mso]></td></tr></table><![endif]-->', '', 'align="center"'), 'width="100%" bgcolor="#EDF3ED"') + '</body></html>\n'
 
 (ROOT / 'preview.html').write_text(doc)
-(ROOT / 'newsletter.html').write_text(doc)
+(ROOT / 'newsletter.html').write_text(doc.replace('src="assets/', f'src="{PUBLIC}assets/').replace("url('assets/", f"url('{PUBLIC}assets/"))
 
 text = [f'TEMA: {SUBJECT}', f'PREHEADER: {PREHEADER}', '', 'Kai lauke lyja, namuose kuriam.', '8 idėjos spalvotai popietei be ekranų.', '', 'Labas!', 'Kai už lango pilka, ant stalo gali atsirasti visas spalvotas pasaulis. Šiai popietei atrinkau priemones, kurios kviečia piešti, spalvinti ir išbandyti ką nors naujo.', '', 'KŪRYBOS PRADŽIA – Trys maži žingsniai.']
 for index, (title, desc) in enumerate(STARTERS, 1):
