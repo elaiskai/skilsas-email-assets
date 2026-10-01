@@ -1,0 +1,2 @@
+Visas laiškas: SK5.html arba SK5-kodas.txt. HTML blokui: SK5-omnisend-blokas.html. GIF naudoja viešą GitHub nuorodą. Tema ir preheader: metadata.json.
+Patikrinta 600, 320, 390 ir 430 px su stiliais ir be jų. Prieš siuntimą reikalingas Omnisend testas, footerio duomenų ir atsisakymo nuorodos patikra.
