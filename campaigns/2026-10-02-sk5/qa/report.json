@@ -1,0 +1,239 @@
+{
+  "sha256": "bfd48b40dc38660cedf492329a7a8df6303b6703192f54194447064d654babb3",
+  "checks": [
+    {
+      "width": 600,
+      "stripped": false,
+      "file": "SK5-600.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Užsisakyti savo SK5  →",
+          "height": 56.390625,
+          "width": 552
+        },
+        {
+          "text": "▶ Žiūrėti visą video su garsu",
+          "height": 56,
+          "width": 552
+        },
+        {
+          "text": "Noriu SK5 su 60 diskelių  →",
+          "height": 56.390625,
+          "width": 552
+        },
+        {
+          "text": "Užsisakyti SK5  →",
+          "height": 56.390625,
+          "width": 552
+        }
+      ],
+      "height": 4193
+    },
+    {
+      "width": 600,
+      "stripped": true,
+      "file": "SK5-600-stripped.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Užsisakyti savo SK5  →",
+          "height": 56.390625,
+          "width": 552
+        },
+        {
+          "text": "▶ Žiūrėti visą video su garsu",
+          "height": 56,
+          "width": 552
+        },
+        {
+          "text": "Noriu SK5 su 60 diskelių  →",
+          "height": 56.390625,
+          "width": 552
+        },
+        {
+          "text": "Užsisakyti SK5  →",
+          "height": 56.390625,
+          "width": 552
+        }
+      ],
+      "height": 4167
+    },
+    {
+      "width": 320,
+      "stripped": false,
+      "file": "SK5-320.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Užsisakyti savo SK5  →",
+          "height": 56.390625,
+          "width": 272
+        },
+        {
+          "text": "▶ Žiūrėti visą video su garsu",
+          "height": 56,
+          "width": 272
+        },
+        {
+          "text": "Noriu SK5 su 60 diskelių  →",
+          "height": 56.390625,
+          "width": 272
+        },
+        {
+          "text": "Užsisakyti SK5  →",
+          "height": 56.390625,
+          "width": 272
+        }
+      ],
+      "height": 4673
+    },
+    {
+      "width": 320,
+      "stripped": true,
+      "file": "SK5-320-stripped.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Užsisakyti savo SK5  →",
+          "height": 56.390625,
+          "width": 272
+        },
+        {
+          "text": "▶ Žiūrėti visą video su garsu",
+          "height": 56,
+          "width": 272
+        },
+        {
+          "text": "Noriu SK5 su 60 diskelių  →",
+          "height": 56.390625,
+          "width": 272
+        },
+        {
+          "text": "Užsisakyti SK5  →",
+          "height": 56.390625,
+          "width": 272
+        }
+      ],
+      "height": 4427
+    },
+    {
+      "width": 390,
+      "stripped": false,
+      "file": "SK5-390.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Užsisakyti savo SK5  →",
+          "height": 56.390625,
+          "width": 342
+        },
+        {
+          "text": "▶ Žiūrėti visą video su garsu",
+          "height": 56,
+          "width": 342
+        },
+        {
+          "text": "Noriu SK5 su 60 diskelių  →",
+          "height": 56.390625,
+          "width": 342
+        },
+        {
+          "text": "Užsisakyti SK5  →",
+          "height": 56.390625,
+          "width": 342
+        }
+      ],
+      "height": 4380
+    },
+    {
+      "width": 390,
+      "stripped": true,
+      "file": "SK5-390-stripped.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Užsisakyti savo SK5  →",
+          "height": 56.390625,
+          "width": 342
+        },
+        {
+          "text": "▶ Žiūrėti visą video su garsu",
+          "height": 56,
+          "width": 342
+        },
+        {
+          "text": "Noriu SK5 su 60 diskelių  →",
+          "height": 56.390625,
+          "width": 342
+        },
+        {
+          "text": "Užsisakyti SK5  →",
+          "height": 56.390625,
+          "width": 342
+        }
+      ],
+      "height": 4254
+    },
+    {
+      "width": 430,
+      "stripped": false,
+      "file": "SK5-430.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Užsisakyti savo SK5  →",
+          "height": 56.390625,
+          "width": 382
+        },
+        {
+          "text": "▶ Žiūrėti visą video su garsu",
+          "height": 56,
+          "width": 382
+        },
+        {
+          "text": "Noriu SK5 su 60 diskelių  →",
+          "height": 56.390625,
+          "width": 382
+        },
+        {
+          "text": "Užsisakyti SK5  →",
+          "height": 56.390625,
+          "width": 382
+        }
+      ],
+      "height": 4352
+    },
+    {
+      "width": 430,
+      "stripped": true,
+      "file": "SK5-430-stripped.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Užsisakyti savo SK5  →",
+          "height": 56.390625,
+          "width": 382
+        },
+        {
+          "text": "▶ Žiūrėti visą video su garsu",
+          "height": 56,
+          "width": 382
+        },
+        {
+          "text": "Noriu SK5 su 60 diskelių  →",
+          "height": 56.390625,
+          "width": 382
+        },
+        {
+          "text": "Užsisakyti SK5  →",
+          "height": 56.390625,
+          "width": 382
+        }
+      ],
+      "height": 4247
+    }
+  ],
+  "visualReview": "pending",
+  "emailClientTest": "Not performed; browser simulation only"
+}
