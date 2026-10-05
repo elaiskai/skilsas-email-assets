@@ -1,5 +1,5 @@
 {
-  "sha256": "6a69c8758a507e2603ceaad5628392a6f17e1f131803c127ed14c594588ff705",
+  "sha256": "d091483760803e32ecb66e7f513c5ccf4c6ea92a25c5d0cb1c159b4a364ab365",
   "checks": [
     {
       "width": 600,
@@ -48,7 +48,7 @@
           "width": 552
         }
       ],
-      "height": 3760
+      "height": 3816
     },
     {
       "width": 600,
@@ -97,7 +97,7 @@
           "width": 552
         }
       ],
-      "height": 3760
+      "height": 3816
     },
     {
       "width": 320,
@@ -146,7 +146,7 @@
           "width": 272
         }
       ],
-      "height": 5881
+      "height": 5965
     },
     {
       "width": 320,
@@ -195,7 +195,7 @@
           "width": 272
         }
       ],
-      "height": 5881
+      "height": 5965
     },
     {
       "width": 390,
@@ -244,7 +244,7 @@
           "width": 342
         }
       ],
-      "height": 6185
+      "height": 6269
     },
     {
       "width": 390,
@@ -293,7 +293,7 @@
           "width": 342
         }
       ],
-      "height": 6185
+      "height": 6269
     },
     {
       "width": 430,
@@ -342,7 +342,7 @@
           "width": 382
         }
       ],
-      "height": 6399
+      "height": 6455
     },
     {
       "width": 430,
@@ -391,10 +391,10 @@
           "width": 382
         }
       ],
-      "height": 6399
+      "height": 6455
     }
   ],
-  "visualReview": "Passed full fresh renders at 600,320,390,430. Readable text, intact names, natural proportions, associated images and buttons, aligned cards, no overflow. Stripped versions pixel identical.",
+  "visualReview": "Passed: current full email visually inspected at 600,320,390,430 px. Readable copy, intact product names, natural images, aligned spacing and associated CTA buttons. Head-stripped versions pixel-identical.",
   "emailClientTest": "Not performed; browser simulation only",
-  "heroAssetDuringQA": "Public URL intercepted using exact JPG to be published. Public availability verified after push."
+  "heroAssetDuringQA": "Exact published JPG served via route interception."
 }
