@@ -1,0 +1,400 @@
+{
+  "sha256": "6a69c8758a507e2603ceaad5628392a6f17e1f131803c127ed14c594588ff705",
+  "checks": [
+    {
+      "width": 600,
+      "stripped": false,
+      "file": "VALOM20-600.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Rinktis i\u0161pardavimo prekes \u2192",
+          "height": 56.390625,
+          "width": 552
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Per\u017ei\u016br\u0117ti i\u0161parduodamas prekes \u2192",
+          "height": 56.390625,
+          "width": 552
+        }
+      ],
+      "height": 3760
+    },
+    {
+      "width": 600,
+      "stripped": true,
+      "file": "VALOM20-600-stripped.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Rinktis i\u0161pardavimo prekes \u2192",
+          "height": 56.390625,
+          "width": 552
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 238
+        },
+        {
+          "text": "Per\u017ei\u016br\u0117ti i\u0161parduodamas prekes \u2192",
+          "height": 56.390625,
+          "width": 552
+        }
+      ],
+      "height": 3760
+    },
+    {
+      "width": 320,
+      "stripped": false,
+      "file": "VALOM20-320.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Rinktis i\u0161pardavimo prekes \u2192",
+          "height": 56.390625,
+          "width": 272
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Per\u017ei\u016br\u0117ti i\u0161parduodamas prekes \u2192",
+          "height": 78.78125,
+          "width": 272
+        }
+      ],
+      "height": 5881
+    },
+    {
+      "width": 320,
+      "stripped": true,
+      "file": "VALOM20-320-stripped.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Rinktis i\u0161pardavimo prekes \u2192",
+          "height": 56.390625,
+          "width": 272
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 240
+        },
+        {
+          "text": "Per\u017ei\u016br\u0117ti i\u0161parduodamas prekes \u2192",
+          "height": 78.78125,
+          "width": 272
+        }
+      ],
+      "height": 5881
+    },
+    {
+      "width": 390,
+      "stripped": false,
+      "file": "VALOM20-390.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Rinktis i\u0161pardavimo prekes \u2192",
+          "height": 56.390625,
+          "width": 342
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Per\u017ei\u016br\u0117ti i\u0161parduodamas prekes \u2192",
+          "height": 56.390625,
+          "width": 342
+        }
+      ],
+      "height": 6185
+    },
+    {
+      "width": 390,
+      "stripped": true,
+      "file": "VALOM20-390-stripped.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Rinktis i\u0161pardavimo prekes \u2192",
+          "height": 56.390625,
+          "width": 342
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 310
+        },
+        {
+          "text": "Per\u017ei\u016br\u0117ti i\u0161parduodamas prekes \u2192",
+          "height": 56.390625,
+          "width": 342
+        }
+      ],
+      "height": 6185
+    },
+    {
+      "width": 430,
+      "stripped": false,
+      "file": "VALOM20-430.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Rinktis i\u0161pardavimo prekes \u2192",
+          "height": 56.390625,
+          "width": 382
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Per\u017ei\u016br\u0117ti i\u0161parduodamas prekes \u2192",
+          "height": 56.390625,
+          "width": 382
+        }
+      ],
+      "height": 6399
+    },
+    {
+      "width": 430,
+      "stripped": true,
+      "file": "VALOM20-430-stripped.png",
+      "errors": [],
+      "ctas": [
+        {
+          "text": "Rinktis i\u0161pardavimo prekes \u2192",
+          "height": 56.390625,
+          "width": 382
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Ap\u017ei\u016br\u0117ti \u2192",
+          "height": 56.390625,
+          "width": 350
+        },
+        {
+          "text": "Per\u017ei\u016br\u0117ti i\u0161parduodamas prekes \u2192",
+          "height": 56.390625,
+          "width": 382
+        }
+      ],
+      "height": 6399
+    }
+  ],
+  "visualReview": "Passed full fresh renders at 600,320,390,430. Readable text, intact names, natural proportions, associated images and buttons, aligned cards, no overflow. Stripped versions pixel identical.",
+  "emailClientTest": "Not performed; browser simulation only",
+  "heroAssetDuringQA": "Public URL intercepted using exact JPG to be published. Public availability verified after push."
+}
