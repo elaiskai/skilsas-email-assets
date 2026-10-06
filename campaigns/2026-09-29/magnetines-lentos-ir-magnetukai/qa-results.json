@@ -1,0 +1,776 @@
+[
+  {
+    "width": 600,
+    "scrollWidth": 600,
+    "height": 4294,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/naira.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/miskas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/ukis.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/vandenynas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/aprenk.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/sudek.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/spalvos.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 244,
+        "height": 72,
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
+      },
+      {
+        "width": 244,
+        "height": 72,
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamosios-priemones/magnetines-lentos-ir-magnetai-yes-for-skills?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": false
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 5232,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/naira.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/miskas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/ukis.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/vandenynas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/aprenk.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/sudek.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/spalvos.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 322,
+        "height": 48,
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 322,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamosios-priemones/magnetines-lentos-ir-magnetai-yes-for-skills?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": false
+  },
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 5584,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/naira.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/miskas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/ukis.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/vandenynas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/aprenk.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/sudek.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/spalvos.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 252,
+        "height": 72,
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
+      },
+      {
+        "width": 252,
+        "height": 72,
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 252,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamosios-priemones/magnetines-lentos-ir-magnetai-yes-for-skills?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": false
+  },
+  {
+    "width": 600,
+    "scrollWidth": 600,
+    "height": 4246,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/naira.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/miskas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/ukis.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/vandenynas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/aprenk.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/sudek.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/spalvos.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 244,
+        "height": 72,
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamosios-priemones/magnetines-lentos-ir-magnetai-yes-for-skills?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": true
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 5588,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/naira.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/miskas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/ukis.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/vandenynas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/aprenk.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/sudek.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/spalvos.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 244,
+        "height": 72,
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamosios-priemones/magnetines-lentos-ir-magnetai-yes-for-skills?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": true
+  },
+  {
+    "width": 320,
+    "scrollWidth": 320,
+    "height": 5785,
+    "images": [
+      {
+        "src": "assets/brand/logo.png",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/campaign/hero.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/arka.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/naira.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/miskas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/ukis.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/vandenynas.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/aprenk.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/sudek.jpg",
+        "loaded": true,
+        "alt": true
+      },
+      {
+        "src": "assets/products/spalvos.jpg",
+        "loaded": true,
+        "alt": true
+      }
+    ],
+    "descriptions": [
+      {
+        "width": 244,
+        "height": 72,
+        "text": "95 × 76 cm, žalsvai melsva. Priklijuojama, lengviems magnetukams."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "55 × 80 cm, juoda. Priklijuojama namelio formos lenta."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Miško gyvūnai ir gamtos detalės mažiems nuotykiams."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Ūkio gyvūnai ir daržo detalės kaimo istorijoms."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Banginis, aštuonkojis ir povandeninės istorijos."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "6 veikėjai, 32 drabužiai ir aksesuarai deriniams kurti."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Junkite kūno dalis ir sugalvokite naują gyvūną."
+      },
+      {
+        "width": 244,
+        "height": 48,
+        "text": "Rūšiuokite magnetukus ir ieškokite spalvų porų."
+      }
+    ],
+    "overflow": [],
+    "titleOverflow": [],
+    "links": [
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/skilsas-priklijuojama-magnetine-lenta-arka-zalsvai-melsva-95-76-cm?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-magnetine-lenta-prie-sienos-juodas-namelis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-miskas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-ukis?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-vaikams-vandenynas?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamieji-magnetukai-skilsas-aprenk-mergaite-ir-berniuka?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-sudek-gyvuna?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/yes-for-skills-lavinamieji-magnetukai-spalvos?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/lavinamosios-priemones/magnetines-lentos-ir-magnetai-yes-for-skills?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.skilsas.lt/?utm_source=omnisend&utm_medium=email&utm_campaign=skilsas_20260929_magnetines_lentos_ir_magnetukai",
+      "https://www.facebook.com/skilsaslietuva",
+      "https://www.instagram.com/skilsas.lt/",
+      "https://www.skilsas.lt/privatumo-politika",
+      "[[preference_link]]",
+      "[[unsubscribe_link]]"
+    ],
+    "stripped": true
+  }
+]
